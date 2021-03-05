@@ -1,0 +1,1282 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="2">
+    <display-name lang="es">Canal 4</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="3">
+    <display-name lang="es">Canal 6</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="4">
+    <display-name lang="es">Teletica 7</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="5">
+    <display-name lang="es">Multimedios</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="10">
+    <display-name lang="es">Canal 11</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="12">
+    <display-name lang="es">Canal 13</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="18">
+    <display-name lang="es">Extra TV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210305030000 -0600" stop="20210305060000 -0600" channel="2">
+    <title lang="es">Canal 4 Costa Rica</title>
+  </programme>
+  <programme start="20210305060000 -0600" stop="20210305100000 -0600" channel="2">
+    <title lang="es">Canal 4 Costa Rica</title>
+  </programme>
+  <programme start="20210305100000 -0600" stop="20210305120000 -0600" channel="2">
+    <title lang="es">Despierta América</title>
+  </programme>
+  <programme start="20210305120000 -0600" stop="20210305130000 -0600" channel="2">
+    <title lang="es">María Belén</title>
+  </programme>
+  <programme start="20210305130000 -0600" stop="20210305140000 -0600" channel="2">
+    <title lang="es">La Jefa del Campeón</title>
+  </programme>
+  <programme start="20210305140000 -0600" stop="20210305150000 -0600" channel="2">
+    <title lang="es">Yo Soy Franky</title>
+  </programme>
+  <programme start="20210305150000 -0600" stop="20210305160000 -0600" channel="2">
+    <title lang="es">Lola, érase una vez</title>
+  </programme>
+  <programme start="20210305160000 -0600" stop="20210305170000 -0600" channel="2">
+    <title lang="es">Misión S.O.S</title>
+  </programme>
+  <programme start="20210305170000 -0600" stop="20210305180000 -0600" channel="2">
+    <title lang="es">Camaleones</title>
+  </programme>
+  <programme start="20210305180000 -0600" stop="20210305190000 -0600" channel="2">
+    <title lang="es">Clase 406</title>
+  </programme>
+  <programme start="20210305190000 -0600" stop="20210305200000 -0600" channel="2">
+    <title lang="es">America's Next Top Model</title>
+  </programme>
+  <programme start="20210305200000 -0600" stop="20210305210000 -0600" channel="2">
+    <title lang="es">Survivor</title>
+  </programme>
+  <programme start="20210305210000 -0600" stop="20210305220000 -0600" channel="2">
+    <title lang="es">NCIS: Criminología Naval</title>
+  </programme>
+  <programme start="20210305220000 -0600" stop="20210305230000 -0600" channel="2">
+    <title lang="es">Alerta Cobra</title>
+  </programme>
+  <programme start="20210305230000 -0600" stop="20210306000000 -0600" channel="2">
+    <title lang="es">Fear the Walking Dead</title>
+  </programme>
+  <programme start="20210306060000 -0600" stop="20210306070000 -0600" channel="2">
+    <title lang="es">Canal 4 Costa Rica</title>
+  </programme>
+  <programme start="20210306070000 -0600" stop="20210306100000 -0600" channel="2">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210306100000 -0600" stop="20210306110000 -0600" channel="2">
+    <title lang="es">Cámara Loca</title>
+  </programme>
+  <programme start="20210306110000 -0600" stop="20210306120000 -0600" channel="2">
+    <title lang="es">Los animales + graciosos</title>
+  </programme>
+  <programme start="20210306120000 -0600" stop="20210306130000 -0600" channel="2">
+    <title lang="es">Reino Animal</title>
+  </programme>
+  <programme start="20210306130000 -0600" stop="20210306140000 -0600" channel="2">
+    <title lang="es">SAF3, Fuerza de rescate</title>
+  </programme>
+  <programme start="20210306140000 -0600" stop="20210306153000 -0600" channel="2">
+    <title lang="es">Números</title>
+  </programme>
+  <programme start="20210306153000 -0600" stop="20210306190000 -0600" channel="2">
+    <title lang="es">America's Next Top Model</title>
+  </programme>
+  <programme start="20210306190000 -0600" stop="20210306200000 -0600" channel="2">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20210306200000 -0600" stop="20210306210000 -0600" channel="2">
+    <title lang="es">Extant</title>
+  </programme>
+  <programme start="20210306210000 -0600" stop="20210306220000 -0600" channel="2">
+    <title lang="es">Jane, la inmortal</title>
+  </programme>
+  <programme start="20210306220000 -0600" stop="20210306230000 -0600" channel="2">
+    <title lang="es">Camorra, crímenes del poder</title>
+  </programme>
+  <programme start="20210306230000 -0600" stop="20210307000000 -0600" channel="2">
+    <title lang="es">Medium</title>
+  </programme>
+  <programme start="20210307153000 -0600" stop="20210307190000 -0600" channel="2">
+    <title lang="es">Survivor</title>
+  </programme>
+  <programme start="20210307190000 -0600" stop="20210307200000 -0600" channel="2">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20210307210000 -0600" stop="20210307220000 -0600" channel="2">
+    <title lang="es">Crossing lines</title>
+  </programme>
+  <programme start="20210305003000 -0600" stop="20210305011500 -0600" channel="3">
+    <title lang="es">Abrazame muy fuerte</title>
+  </programme>
+  <programme start="20210305011500 -0600" stop="20210305020000 -0600" channel="3">
+    <title lang="es">Mujeres al Límite</title>
+  </programme>
+  <programme start="20210305020000 -0600" stop="20210305030000 -0600" channel="3">
+    <title lang="es">A cada quien su santo</title>
+  </programme>
+  <programme start="20210305030000 -0600" stop="20210305040000 -0600" channel="3">
+    <title lang="es">Así es la vida</title>
+  </programme>
+  <programme start="20210305040000 -0600" stop="20210305050000 -0600" channel="3">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20210305050000 -0600" stop="20210305060000 -0600" channel="3">
+    <title lang="es">Mujer, Casos de la Vida Real</title>
+  </programme>
+  <programme start="20210305060000 -0600" stop="20210305080000 -0600" channel="3">
+    <title lang="es">Noticias Repretel</title>
+  </programme>
+  <programme start="20210305080000 -0600" stop="20210305100000 -0600" channel="3">
+    <title lang="es">Giros</title>
+  </programme>
+  <programme start="20210305100000 -0600" stop="20210305110000 -0600" channel="3">
+    <title lang="es">Nueva novia</title>
+  </programme>
+  <programme start="20210305110000 -0600" stop="20210305120000 -0600" channel="3">
+    <title lang="es">Inocente de ti</title>
+  </programme>
+  <programme start="20210305120000 -0600" stop="20210305140000 -0600" channel="3">
+    <title lang="es">Noticias Repretel</title>
+  </programme>
+  <programme start="20210305140000 -0600" stop="20210305150000 -0600" channel="3">
+    <title lang="es">Soltero con Hijas</title>
+  </programme>
+  <programme start="20210305150000 -0600" stop="20210305160000 -0600" channel="3">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20210305160000 -0600" stop="20210305170000 -0600" channel="3">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20210305170000 -0600" stop="20210305190000 -0600" channel="3">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20210305190000 -0600" stop="20210305200000 -0600" channel="3">
+    <title lang="es">Noticias Repretel</title>
+  </programme>
+  <programme start="20210305200000 -0600" stop="20210305210000 -0600" channel="3">
+    <title lang="es">Amor Eterno - Kara Sevda</title>
+  </programme>
+  <programme start="20210305210000 -0600" stop="20210305220000 -0600" channel="3">
+    <title lang="es">Piezas rotas</title>
+  </programme>
+  <programme start="20210305220000 -0600" stop="20210305230000 -0600" channel="3">
+    <title lang="es">La ley secreta</title>
+  </programme>
+  <programme start="20210305230000 -0600" stop="20210305233000 -0600" channel="3">
+    <title lang="es">Noticias Repretel</title>
+  </programme>
+  <programme start="20210305233000 -0600" stop="20210306000000 -0600" channel="3">
+    <title lang="es">La 3era en discordia</title>
+  </programme>
+  <programme start="20210306000000 -0600" stop="20210306013000 -0600" channel="3">
+    <title lang="es">Aguila roja</title>
+  </programme>
+  <programme start="20210306013000 -0600" stop="20210306030000 -0600" channel="3">
+    <title lang="es">Cine de madrugada</title>
+  </programme>
+  <programme start="20210306030000 -0600" stop="20210306043000 -0600" channel="3">
+    <title lang="es">Clásicos de Fear Factor</title>
+  </programme>
+  <programme start="20210306043000 -0600" stop="20210306050000 -0600" channel="3">
+    <title lang="es">Extreme reality clips</title>
+  </programme>
+  <programme start="20210306050000 -0600" stop="20210306060000 -0600" channel="3">
+    <title lang="es">Al punto</title>
+  </programme>
+  <programme start="20210306060000 -0600" stop="20210306070000 -0600" channel="3">
+    <title lang="es">Aquí y ahora</title>
+  </programme>
+  <programme start="20210306070000 -0600" stop="20210306073000 -0600" channel="3">
+    <title lang="es">Noticiero Univisión</title>
+  </programme>
+  <programme start="20210306073000 -0600" stop="20210306083000 -0600" channel="3">
+    <title lang="es">Guinness records</title>
+  </programme>
+  <programme start="20210306083000 -0600" stop="20210306093000 -0600" channel="3">
+    <title lang="es">Highlander, El Inmortal</title>
+  </programme>
+  <programme start="20210306093000 -0600" stop="20210306103000 -0600" channel="3">
+    <title lang="es">Comisario Rex</title>
+  </programme>
+  <programme start="20210306103000 -0600" stop="20210306113000 -0600" channel="3">
+    <title lang="es">Alerta Cobra</title>
+  </programme>
+  <programme start="20210306113000 -0600" stop="20210306123000 -0600" channel="3">
+    <title lang="es">Baywatch</title>
+  </programme>
+  <programme start="20210306123000 -0600" stop="20210306133000 -0600" channel="3">
+    <title lang="es">Noticias Repretel</title>
+  </programme>
+  <programme start="20210306133000 -0600" stop="20210306143000 -0600" channel="3">
+    <title lang="es">Guerrero Ninja Americano</title>
+  </programme>
+  <programme start="20210306143000 -0600" stop="20210306160000 -0600" channel="3">
+    <title lang="es">Cine en su casa</title>
+  </programme>
+  <programme start="20210306160000 -0600" stop="20210306170000 -0600" channel="3">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210306170000 -0600" stop="20210306180000 -0600" channel="3">
+    <title lang="es">Fear Factor MTV</title>
+  </programme>
+  <programme start="20210306180000 -0600" stop="20210306190000 -0600" channel="3">
+    <title lang="es">Hazañas del deporte</title>
+  </programme>
+  <programme start="20210306190000 -0600" stop="20210306200000 -0600" channel="3">
+    <title lang="es">Noticias Repretel ed. sab</title>
+  </programme>
+  <programme start="20210306200000 -0600" stop="20210306223000 -0600" channel="3">
+    <title lang="es">Brandon Adams vs. S. Bohachcuk</title>
+  </programme>
+  <programme start="20210306223000 -0600" stop="20210307000000 -0600" channel="3">
+    <title lang="es">Érase una vez</title>
+  </programme>
+  <programme start="20210307000000 -0600" stop="20210307013000 -0600" channel="3">
+    <title lang="es">Historias Reales</title>
+  </programme>
+  <programme start="20210307013000 -0600" stop="20210307030000 -0600" channel="3">
+    <title lang="es">Death Proof</title>
+  </programme>
+  <programme start="20210307143000 -0600" stop="20210307160000 -0600" channel="3">
+    <title lang="es">El comisario Montalbano</title>
+  </programme>
+  <programme start="20210307170000 -0600" stop="20210307180000 -0600" channel="3">
+    <title lang="es">Hudson &amp; Rex</title>
+  </programme>
+  <programme start="20210307180000 -0600" stop="20210307190000 -0600" channel="3">
+    <title lang="es">Deportes Repretel</title>
+  </programme>
+  <programme start="20210307200000 -0600" stop="20210307210000 -0600" channel="3">
+    <title lang="es">El año de la gran pausa</title>
+  </programme>
+  <programme start="20210307210000 -0600" stop="20210307223000 -0600" channel="3">
+    <title lang="es">¿Quién es la Máscara</title>
+  </programme>
+  <programme start="20210307223000 -0600" stop="20210308003000 -0600" channel="3">
+    <title lang="es">El transportador</title>
+  </programme>
+  <programme start="20210305003000 -0600" stop="20210305013000 -0600" channel="4">
+    <title lang="es">De boca en boca</title>
+  </programme>
+  <programme start="20210305013000 -0600" stop="20210305023000 -0600" channel="4">
+    <title lang="es">¡Qué buena tarde</title>
+  </programme>
+  <programme start="20210305023000 -0600" stop="20210305033000 -0600" channel="4">
+    <title lang="es">Suerte de vivir</title>
+  </programme>
+  <programme start="20210305033000 -0600" stop="20210305043000 -0600" channel="4">
+    <title lang="es">7 estrellas</title>
+  </programme>
+  <programme start="20210305043000 -0600" stop="20210305050000 -0600" channel="4">
+    <title lang="es">Más que noticias</title>
+  </programme>
+  <programme start="20210305050000 -0600" stop="20210305060000 -0600" channel="4">
+    <title lang="es">La Tormenta</title>
+  </programme>
+  <programme start="20210305060000 -0600" stop="20210305080000 -0600" channel="4">
+    <title lang="es">Telenoticias - Matutina</title>
+  </programme>
+  <programme start="20210305080000 -0600" stop="20210305100000 -0600" channel="4">
+    <title lang="es">Buen día</title>
+  </programme>
+  <programme start="20210305100000 -0600" stop="20210305110000 -0600" channel="4">
+    <title lang="es">Pobre Diabla</title>
+  </programme>
+  <programme start="20210305110000 -0600" stop="20210305120000 -0600" channel="4">
+    <title lang="es">India, una historia de amor</title>
+  </programme>
+  <programme start="20210305120000 -0600" stop="20210305133000 -0600" channel="4">
+    <title lang="es">Telenoticias - Meridiana</title>
+  </programme>
+  <programme start="20210305133000 -0600" stop="20210305143000 -0600" channel="4">
+    <title lang="es">De boca en boca</title>
+  </programme>
+  <programme start="20210305143000 -0600" stop="20210305153000 -0600" channel="4">
+    <title lang="es">Betty en N.Y</title>
+  </programme>
+  <programme start="20210305153000 -0600" stop="20210305163000 -0600" channel="4">
+    <title lang="es">Suerte de vivir</title>
+  </programme>
+  <programme start="20210305163000 -0600" stop="20210305173000 -0600" channel="4">
+    <title lang="es">Luz Maria</title>
+  </programme>
+  <programme start="20210305173000 -0600" stop="20210305183000 -0600" channel="4">
+    <title lang="es">¡Qué buena tarde</title>
+  </programme>
+  <programme start="20210305183000 -0600" stop="20210305190000 -0600" channel="4">
+    <title lang="es">Más que noticias</title>
+  </programme>
+  <programme start="20210305190000 -0600" stop="20210305200000 -0600" channel="4">
+    <title lang="es">Telenoticias</title>
+  </programme>
+  <programme start="20210305200000 -0600" stop="20210305203000 -0600" channel="4">
+    <title lang="es">La pensión</title>
+  </programme>
+  <programme start="20210305203000 -0600" stop="20210305210000 -0600" channel="4">
+    <title lang="es">Los Vargas</title>
+  </programme>
+  <programme start="20210305210000 -0600" stop="20210305220000 -0600" channel="4">
+    <title lang="es">Fuerza de Mujer</title>
+  </programme>
+  <programme start="20210305220000 -0600" stop="20210305230000 -0600" channel="4">
+    <title lang="es">Telenoticias</title>
+  </programme>
+  <programme start="20210305230000 -0600" stop="20210306000000 -0600" channel="4">
+    <title lang="es">Enfermeras</title>
+  </programme>
+  <programme start="20210306000000 -0600" stop="20210306003000 -0600" channel="4">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210306003000 -0600" stop="20210306013000 -0600" channel="4">
+    <title lang="es">Supergirl</title>
+  </programme>
+  <programme start="20210306013000 -0600" stop="20210306033000 -0600" channel="4">
+    <title lang="es">Cines sólo para noctámbulos</title>
+  </programme>
+  <programme start="20210306033000 -0600" stop="20210306053000 -0600" channel="4">
+    <title lang="es">Cines sólo para noctámbulos</title>
+  </programme>
+  <programme start="20210306053000 -0600" stop="20210306070000 -0600" channel="4">
+    <title lang="es">Bloque Religioso</title>
+  </programme>
+  <programme start="20210306070000 -0600" stop="20210306073000 -0600" channel="4">
+    <title lang="es">Escuela Teletica</title>
+  </programme>
+  <programme start="20210306073000 -0600" stop="20210306100000 -0600" channel="4">
+    <title lang="es">Trencito infantil</title>
+  </programme>
+  <programme start="20210306100000 -0600" stop="20210306113000 -0600" channel="4">
+    <title lang="es">Cine en familia</title>
+  </programme>
+  <programme start="20210306113000 -0600" stop="20210306133000 -0600" channel="4">
+    <title lang="es">Bayern Múnich Vs. Borussia Dortmund</title>
+  </programme>
+  <programme start="20210306133000 -0600" stop="20210306140000 -0600" channel="4">
+    <title lang="es">El ABC de los Padres</title>
+  </programme>
+  <programme start="20210306140000 -0600" stop="20210306160000 -0600" channel="4">
+    <title lang="es">Sábado feliz</title>
+  </programme>
+  <programme start="20210306160000 -0600" stop="20210306170000 -0600" channel="4">
+    <title lang="es">Supergirl</title>
+  </programme>
+  <programme start="20210306170000 -0600" stop="20210306180000 -0600" channel="4">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210306180000 -0600" stop="20210306183000 -0600" channel="4">
+    <title lang="es">Modern Family</title>
+  </programme>
+  <programme start="20210306183000 -0600" stop="20210306190000 -0600" channel="4">
+    <title lang="es">La rueda de la fortuna</title>
+  </programme>
+  <programme start="20210306190000 -0600" stop="20210306200000 -0600" channel="4">
+    <title lang="es">Telenoticias</title>
+  </programme>
+  <programme start="20210306200000 -0600" stop="20210306220000 -0600" channel="4">
+    <title lang="es">Tanda del 7</title>
+  </programme>
+  <programme start="20210306220000 -0600" stop="20210307000000 -0600" channel="4">
+    <title lang="es">Best Sellers</title>
+  </programme>
+  <programme start="20210307000000 -0600" stop="20210307020000 -0600" channel="4">
+    <title lang="es">Cine de media noche</title>
+  </programme>
+  <programme start="20210307020000 -0600" stop="20210307040000 -0600" channel="4">
+    <title lang="es">Cine madrugada</title>
+  </programme>
+  <programme start="20210307040000 -0600" stop="20210307060000 -0600" channel="4">
+    <title lang="es">Cine madrugada</title>
+  </programme>
+  <programme start="20210307060000 -0600" stop="20210307080000 -0600" channel="4">
+    <title lang="es">Bloque Religioso</title>
+  </programme>
+  <programme start="20210307080000 -0600" stop="20210307090000 -0600" channel="4">
+    <title lang="es">Deporte</title>
+  </programme>
+  <programme start="20210307090000 -0600" stop="20210307100000 -0600" channel="4">
+    <title lang="es">Teletica Deportes</title>
+  </programme>
+  <programme start="20210307100000 -0600" stop="20210307110000 -0600" channel="4">
+    <title lang="es">Estado Nacional</title>
+  </programme>
+  <programme start="20210307110000 -0600" stop="20210307120000 -0600" channel="4">
+    <title lang="es">Misa</title>
+  </programme>
+  <programme start="20210307120000 -0600" stop="20210307140000 -0600" channel="4">
+    <title lang="es">Cine Matineé</title>
+  </programme>
+  <programme start="20210307140000 -0600" stop="20210307160000 -0600" channel="4">
+    <title lang="es">Cine para todos</title>
+  </programme>
+  <programme start="20210307160000 -0600" stop="20210307180000 -0600" channel="4">
+    <title lang="es">Cine Pop</title>
+  </programme>
+  <programme start="20210305010000 -0600" stop="20210305020000 -0600" channel="5">
+    <title lang="es">Fútbol al día</title>
+  </programme>
+  <programme start="20210305020000 -0600" stop="20210305030000 -0600" channel="5">
+    <title lang="es">El Chismorreo</title>
+  </programme>
+  <programme start="20210305030000 -0600" stop="20210305034500 -0600" channel="5">
+    <title lang="es">Música</title>
+  </programme>
+  <programme start="20210305034500 -0600" stop="20210305054500 -0600" channel="5">
+    <title lang="es">Divas pero divinas</title>
+  </programme>
+  <programme start="20210305054500 -0600" stop="20210305080000 -0600" channel="5">
+    <title lang="es">TD al minuto</title>
+  </programme>
+  <programme start="20210305080000 -0600" stop="20210305100000 -0600" channel="5">
+    <title lang="es">TD La Revista</title>
+  </programme>
+  <programme start="20210305100000 -0600" stop="20210305110000 -0600" channel="5">
+    <title lang="es">TD Internacional</title>
+  </programme>
+  <programme start="20210305110000 -0600" stop="20210305114500 -0600" channel="5">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20210305114500 -0600" stop="20210305123000 -0600" channel="5">
+    <title lang="es">Saber vivir</title>
+  </programme>
+  <programme start="20210305123000 -0600" stop="20210305130000 -0600" channel="5">
+    <title lang="es">8 deportes</title>
+  </programme>
+  <programme start="20210305130000 -0600" stop="20210305150000 -0600" channel="5">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20210305150000 -0600" stop="20210305160000 -0600" channel="5">
+    <title lang="es">El Chismorreo</title>
+  </programme>
+  <programme start="20210305160000 -0600" stop="20210305180000 -0600" channel="5">
+    <title lang="es">Divas pero divinas</title>
+  </programme>
+  <programme start="20210305180000 -0600" stop="20210305190000 -0600" channel="5">
+    <title lang="es">A cachete</title>
+  </programme>
+  <programme start="20210305190000 -0600" stop="20210305200000 -0600" channel="5">
+    <title lang="es">Telediario de 7 a 8 p. m</title>
+  </programme>
+  <programme start="20210305200000 -0600" stop="20210305210000 -0600" channel="5">
+    <title lang="es">Telediario estelar</title>
+  </programme>
+  <programme start="20210305210000 -0600" stop="20210305220000 -0600" channel="5">
+    <title lang="es">Fútbol al día</title>
+  </programme>
+  <programme start="20210305220000 -0600" stop="20210305230000 -0600" channel="5">
+    <title lang="es">A cachete</title>
+  </programme>
+  <programme start="20210305230000 -0600" stop="20210306000000 -0600" channel="5">
+    <title lang="es">Jaime Bayly Show</title>
+  </programme>
+  <programme start="20210306034500 -0600" stop="20210306053000 -0600" channel="5">
+    <title lang="es">Divas pero divinas</title>
+  </programme>
+  <programme start="20210306053000 -0600" stop="20210306073000 -0600" channel="5">
+    <title lang="es">Música</title>
+  </programme>
+  <programme start="20210306073000 -0600" stop="20210306080000 -0600" channel="5">
+    <title lang="es">Éxitos del 8</title>
+  </programme>
+  <programme start="20210306080000 -0600" stop="20210306090000 -0600" channel="5">
+    <title lang="es">Adivigana</title>
+  </programme>
+  <programme start="20210306090000 -0600" stop="20210306093000 -0600" channel="5">
+    <title lang="es">Saber vivir</title>
+  </programme>
+  <programme start="20210306093000 -0600" stop="20210306100000 -0600" channel="5">
+    <title lang="es">Mundo Fit</title>
+  </programme>
+  <programme start="20210306100000 -0600" stop="20210306110000 -0600" channel="5">
+    <title lang="es">Mundo Bésame</title>
+  </programme>
+  <programme start="20210306110000 -0600" stop="20210306120000 -0600" channel="5">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20210306120000 -0600" stop="20210306130000 -0600" channel="5">
+    <title lang="es">Impacto TDN</title>
+  </programme>
+  <programme start="20210306130000 -0600" stop="20210306140000 -0600" channel="5">
+    <title lang="es">Homenaje</title>
+  </programme>
+  <programme start="20210306140000 -0600" stop="20210306143000 -0600" channel="5">
+    <title lang="es">Sinergia</title>
+  </programme>
+  <programme start="20210306143000 -0600" stop="20210306150000 -0600" channel="5">
+    <title lang="es">Saber vivir</title>
+  </programme>
+  <programme start="20210306150000 -0600" stop="20210306160000 -0600" channel="5">
+    <title lang="es">Somos 65</title>
+  </programme>
+  <programme start="20210306160000 -0600" stop="20210306163000 -0600" channel="5">
+    <title lang="es">Saber vivir</title>
+  </programme>
+  <programme start="20210306163000 -0600" stop="20210306170000 -0600" channel="5">
+    <title lang="es">Mundo Bésame</title>
+  </programme>
+  <programme start="20210306170000 -0600" stop="20210306180000 -0600" channel="5">
+    <title lang="es">Dr. Salud</title>
+  </programme>
+  <programme start="20210306180000 -0600" stop="20210306190000 -0600" channel="5">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20210306190000 -0600" stop="20210306200000 -0600" channel="5">
+    <title lang="es">Mi casa es su casa</title>
+  </programme>
+  <programme start="20210306200000 -0600" stop="20210306210000 -0600" channel="5">
+    <title lang="es">A cachete</title>
+  </programme>
+  <programme start="20210306210000 -0600" stop="20210306220000 -0600" channel="5">
+    <title lang="es">Corte y vamonos</title>
+  </programme>
+  <programme start="20210306220000 -0600" stop="20210306230000 -0600" channel="5">
+    <title lang="es">La erre</title>
+  </programme>
+  <programme start="20210306230000 -0600" stop="20210307000000 -0600" channel="5">
+    <title lang="es">Noche sin tregua</title>
+  </programme>
+  <programme start="20210307000000 -0600" stop="20210307034500 -0600" channel="5">
+    <title lang="es">Maratón Las Aparicio</title>
+  </programme>
+  <programme start="20210307034500 -0600" stop="20210307053000 -0600" channel="5">
+    <title lang="es">Música</title>
+  </programme>
+  <programme start="20210307053000 -0600" stop="20210307073000 -0600" channel="5">
+    <title lang="es">Música</title>
+  </programme>
+  <programme start="20210307073000 -0600" stop="20210307080000 -0600" channel="5">
+    <title lang="es">Saber vivir</title>
+  </programme>
+  <programme start="20210307080000 -0600" stop="20210307090000 -0600" channel="5">
+    <title lang="es">Adivigana</title>
+  </programme>
+  <programme start="20210307090000 -0600" stop="20210307093000 -0600" channel="5">
+    <title lang="es">Saber vivir</title>
+  </programme>
+  <programme start="20210307093000 -0600" stop="20210307100000 -0600" channel="5">
+    <title lang="es">Mundo Fit</title>
+  </programme>
+  <programme start="20210307100000 -0600" stop="20210307110000 -0600" channel="5">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20210307110000 -0600" stop="20210307120000 -0600" channel="5">
+    <title lang="es">La caliente</title>
+  </programme>
+  <programme start="20210307120000 -0600" stop="20210307130000 -0600" channel="5">
+    <title lang="es">Testigo Directo</title>
+  </programme>
+  <programme start="20210307130000 -0600" stop="20210307140000 -0600" channel="5">
+    <title lang="es">Más que fútbol</title>
+  </programme>
+  <programme start="20210307140000 -0600" stop="20210307143000 -0600" channel="5">
+    <title lang="es">Sinergia</title>
+  </programme>
+  <programme start="20210307143000 -0600" stop="20210307150000 -0600" channel="5">
+    <title lang="es">Saber vivir</title>
+  </programme>
+  <programme start="20210307150000 -0600" stop="20210307160000 -0600" channel="5">
+    <title lang="es">Mundo Bésame</title>
+  </programme>
+  <programme start="20210307160000 -0600" stop="20210307170000 -0600" channel="5">
+    <title lang="es">Homenaje</title>
+  </programme>
+  <programme start="20210307170000 -0600" stop="20210307173000 -0600" channel="5">
+    <title lang="es">Éxitos del 8</title>
+  </programme>
+  <programme start="20210307173000 -0600" stop="20210307180000 -0600" channel="5">
+    <title lang="es">Noticiero M.S.P</title>
+  </programme>
+  <programme start="20210305002500 -0600" stop="20210305010000 -0600" channel="10">
+    <title lang="es">Miembros al aire</title>
+  </programme>
+  <programme start="20210305010000 -0600" stop="20210305020000 -0600" channel="10">
+    <title lang="es">Netas divinas</title>
+  </programme>
+  <programme start="20210305020000 -0600" stop="20210305030000 -0600" channel="10">
+    <title lang="es">La guerra de los sexos</title>
+  </programme>
+  <programme start="20210305030000 -0600" stop="20210305040000 -0600" channel="10">
+    <title lang="es">El Gordo y la Flaca</title>
+  </programme>
+  <programme start="20210305040000 -0600" stop="20210305060000 -0600" channel="10">
+    <title lang="es">Laura sin censura</title>
+  </programme>
+  <programme start="20210305060000 -0600" stop="20210305070000 -0600" channel="10">
+    <title lang="es">Informe 11, Las historias - Lo mejor del jueves</title>
+  </programme>
+  <programme start="20210305070000 -0600" stop="20210305090000 -0600" channel="10">
+    <title lang="es">Nuestra voz</title>
+  </programme>
+  <programme start="20210305090000 -0600" stop="20210305110000 -0600" channel="10">
+    <title lang="es">120 minutos</title>
+  </programme>
+  <programme start="20210305110000 -0600" stop="20210305120000 -0600" channel="10">
+    <title lang="es">La Cocina de</title>
+  </programme>
+  <programme start="20210305120000 -0600" stop="20210305123000 -0600" channel="10">
+    <title lang="es">Candido perez</title>
+  </programme>
+  <programme start="20210305123000 -0600" stop="20210305130000 -0600" channel="10">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210305130000 -0600" stop="20210305140000 -0600" channel="10">
+    <title lang="es">Aquí y ahora</title>
+  </programme>
+  <programme start="20210305140000 -0600" stop="20210305150000 -0600" channel="10">
+    <title lang="es">NC Once - Vespertina</title>
+  </programme>
+  <programme start="20210305150000 -0600" stop="20210305160000 -0600" channel="10">
+    <title lang="es">Laura sin censura</title>
+  </programme>
+  <programme start="20210305160000 -0600" stop="20210305170000 -0600" channel="10">
+    <title lang="es">El Gordo y la Flaca</title>
+  </programme>
+  <programme start="20210305170000 -0600" stop="20210305180000 -0600" channel="10">
+    <title lang="es">Primer Impacto</title>
+  </programme>
+  <programme start="20210305180000 -0600" stop="20210305190000 -0600" channel="10">
+    <title lang="es">NC Once - Edición estelar</title>
+  </programme>
+  <programme start="20210305190000 -0600" stop="20210305200000 -0600" channel="10">
+    <title lang="es">Guerreros</title>
+  </programme>
+  <programme start="20210305200000 -0600" stop="20210305210000 -0600" channel="10">
+    <title lang="es">Informe 11, Las historias - Lo mejor del viernes</title>
+  </programme>
+  <programme start="20210305210000 -0600" stop="20210305220000 -0600" channel="10">
+    <title lang="es">NC Once - Edición Nocturna</title>
+  </programme>
+  <programme start="20210305220000 -0600" stop="20210305230000 -0600" channel="10">
+    <title lang="es">Primer Impacto</title>
+  </programme>
+  <programme start="20210305230000 -0600" stop="20210305233000 -0600" channel="10">
+    <title lang="es">Noticiero Univisión</title>
+  </programme>
+  <programme start="20210305233000 -0600" stop="20210306001500 -0600" channel="10">
+    <title lang="es">Contacto deportivo</title>
+  </programme>
+  <programme start="20210306233000 -0600" stop="20210307001500 -0600" channel="10">
+    <title lang="es">Contacto deportivo</title>
+  </programme>
+  <programme start="20210307001500 -0600" stop="20210307010000 -0600" channel="10">
+    <title lang="es">Stand Parados</title>
+  </programme>
+  <programme start="20210307010000 -0600" stop="20210307020000 -0600" channel="10">
+    <title lang="es">La hora pico</title>
+  </programme>
+  <programme start="20210307020000 -0600" stop="20210307023000 -0600" channel="10">
+    <title lang="es">Hospital el paisa</title>
+  </programme>
+  <programme start="20210307023000 -0600" stop="20210307030000 -0600" channel="10">
+    <title lang="es">Cero en conducta</title>
+  </programme>
+  <programme start="20210307030000 -0600" stop="20210307050000 -0600" channel="10">
+    <title lang="es">Dos chicanos chiludos</title>
+  </programme>
+  <programme start="20210307050000 -0600" stop="20210307060000 -0600" channel="10">
+    <title lang="es">Laura sin censura</title>
+  </programme>
+  <programme start="20210307060000 -0600" stop="20210307070000 -0600" channel="10">
+    <title lang="es">Informe 11, Las historias - Lo mejor del jueves</title>
+  </programme>
+  <programme start="20210307070000 -0600" stop="20210307073000 -0600" channel="10">
+    <title lang="es">La nueva pantera rosa</title>
+  </programme>
+  <programme start="20210307073000 -0600" stop="20210307080000 -0600" channel="10">
+    <title lang="es">Los padrinos mágicos</title>
+  </programme>
+  <programme start="20210307080000 -0600" stop="20210307083000 -0600" channel="10">
+    <title lang="es">3, 2, 1 vamos</title>
+  </programme>
+  <programme start="20210307083000 -0600" stop="20210307084500 -0600" channel="10">
+    <title lang="es">Heidi 3D</title>
+  </programme>
+  <programme start="20210307084500 -0600" stop="20210307090000 -0600" channel="10">
+    <title lang="es">Pequeñas aventureras</title>
+  </programme>
+  <programme start="20210307090000 -0600" stop="20210307094500 -0600" channel="10">
+    <title lang="es">Plaza Sésamo</title>
+  </programme>
+  <programme start="20210307094500 -0600" stop="20210307100000 -0600" channel="10">
+    <title lang="es">Cleo y Cuquín</title>
+  </programme>
+  <programme start="20210307100000 -0600" stop="20210307103000 -0600" channel="10">
+    <title lang="es">El conciertazo</title>
+  </programme>
+  <programme start="20210307103000 -0600" stop="20210307110000 -0600" channel="10">
+    <title lang="es">El chapulín colorado animado</title>
+  </programme>
+  <programme start="20210307110000 -0600" stop="20210307113000 -0600" channel="10">
+    <title lang="es">El chavo animado</title>
+  </programme>
+  <programme start="20210307113000 -0600" stop="20210307130000 -0600" channel="10">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20210307130000 -0600" stop="20210307140000 -0600" channel="10">
+    <title lang="es">Desafío Extremo</title>
+  </programme>
+  <programme start="20210307140000 -0600" stop="20210307150000 -0600" channel="10">
+    <title lang="es">Netas divinas</title>
+  </programme>
+  <programme start="20210307150000 -0600" stop="20210307153000 -0600" channel="10">
+    <title lang="es">Los González</title>
+  </programme>
+  <programme start="20210307153000 -0600" stop="20210307173000 -0600" channel="10">
+    <title lang="es">El Pecador</title>
+  </programme>
+  <programme start="20210307173000 -0600" stop="20210307180000 -0600" channel="10">
+    <title lang="es">Una familia de diez</title>
+  </programme>
+  <programme start="20210307180000 -0600" stop="20210307190000 -0600" channel="10">
+    <title lang="es">Santa misa Basílica de Los Ángeles</title>
+  </programme>
+  <programme start="20210307190000 -0600" stop="20210307193000 -0600" channel="10">
+    <title lang="es">Par de Ases</title>
+  </programme>
+  <programme start="20210307193000 -0600" stop="20210307200000 -0600" channel="10">
+    <title lang="es">XHDRBZ</title>
+  </programme>
+  <programme start="20210307200000 -0600" stop="20210307210000 -0600" channel="10">
+    <title lang="es">Informe 11, Las historias - Lo mejor del sábado</title>
+  </programme>
+  <programme start="20210307210000 -0600" stop="20210307220000 -0600" channel="10">
+    <title lang="es">Cronicas</title>
+  </programme>
+  <programme start="20210307220000 -0600" stop="20210307230000 -0600" channel="10">
+    <title lang="es">Más Noche</title>
+  </programme>
+  <programme start="20210307233000 -0600" stop="20210308000000 -0600" channel="10">
+    <title lang="es">40 y 20</title>
+  </programme>
+  <programme start="20210308000000 -0600" stop="20210308010000 -0600" channel="10">
+    <title lang="es">Stand Parados</title>
+  </programme>
+  <programme start="20210308010000 -0600" stop="20210308020000 -0600" channel="10">
+    <title lang="es">La hora pico</title>
+  </programme>
+  <programme start="20210308020000 -0600" stop="20210308023000 -0600" channel="10">
+    <title lang="es">Hospital el paisa</title>
+  </programme>
+  <programme start="20210308023000 -0600" stop="20210308030000 -0600" channel="10">
+    <title lang="es">Cero en conducta</title>
+  </programme>
+  <programme start="20210308030000 -0600" stop="20210308043000 -0600" channel="10">
+    <title lang="es">Cuidado con el chico</title>
+  </programme>
+  <programme start="20210308043000 -0600" stop="20210308060000 -0600" channel="10">
+    <title lang="es">Laura sin censura</title>
+  </programme>
+  <programme start="20210308070000 -0600" stop="20210308073000 -0600" channel="10">
+    <title lang="es">La nueva pantera rosa</title>
+  </programme>
+  <programme start="20210308073000 -0600" stop="20210308080000 -0600" channel="10">
+    <title lang="es">Los padrinos mágicos</title>
+  </programme>
+  <programme start="20210308080000 -0600" stop="20210308083000 -0600" channel="10">
+    <title lang="es">3, 2, 1 vamos</title>
+  </programme>
+  <programme start="20210308083000 -0600" stop="20210308084500 -0600" channel="10">
+    <title lang="es">Heidi 3D</title>
+  </programme>
+  <programme start="20210308084500 -0600" stop="20210308090000 -0600" channel="10">
+    <title lang="es">Pequeñas aventureras</title>
+  </programme>
+  <programme start="20210308090000 -0600" stop="20210308094500 -0600" channel="10">
+    <title lang="es">Plaza Sésamo</title>
+  </programme>
+  <programme start="20210308094500 -0600" stop="20210308100000 -0600" channel="10">
+    <title lang="es">Cleo y Cuquín</title>
+  </programme>
+  <programme start="20210308100000 -0600" stop="20210308103000 -0600" channel="10">
+    <title lang="es">El conciertazo</title>
+  </programme>
+  <programme start="20210308103000 -0600" stop="20210308110000 -0600" channel="10">
+    <title lang="es">El chapulín colorado animado</title>
+  </programme>
+  <programme start="20210308110000 -0600" stop="20210308113000 -0600" channel="10">
+    <title lang="es">El chavo animado</title>
+  </programme>
+  <programme start="20210308113000 -0600" stop="20210308130000 -0600" channel="10">
+    <title lang="es">Desafío súper humanos</title>
+  </programme>
+  <programme start="20210308130000 -0600" stop="20210308140000 -0600" channel="10">
+    <title lang="es">Desafío Extremo</title>
+  </programme>
+  <programme start="20210308140000 -0600" stop="20210308150000 -0600" channel="10">
+    <title lang="es">Netas divinas</title>
+  </programme>
+  <programme start="20210308150000 -0600" stop="20210308153000 -0600" channel="10">
+    <title lang="es">Los González</title>
+  </programme>
+  <programme start="20210308153000 -0600" stop="20210308160000 -0600" channel="10">
+    <title lang="es">La parodia</title>
+  </programme>
+  <programme start="20210308160000 -0600" stop="20210308173000 -0600" channel="10">
+    <title lang="es">Pequeños gigantes</title>
+  </programme>
+  <programme start="20210305020000 -0600" stop="20210305030000 -0600" channel="12">
+    <title lang="es">Cine en cortos</title>
+  </programme>
+  <programme start="20210305030000 -0600" stop="20210305033000 -0600" channel="12">
+    <title lang="es">NCC</title>
+  </programme>
+  <programme start="20210305033000 -0600" stop="20210305040000 -0600" channel="12">
+    <title lang="es">Instinto</title>
+  </programme>
+  <programme start="20210305040000 -0600" stop="20210305043000 -0600" channel="12">
+    <title lang="es">El mundo de Arcadio</title>
+  </programme>
+  <programme start="20210305043000 -0600" stop="20210305050000 -0600" channel="12">
+    <title lang="es">Costa Rica noticias - Regional</title>
+  </programme>
+  <programme start="20210305050000 -0600" stop="20210305053000 -0600" channel="12">
+    <title lang="es">La pulperia</title>
+  </programme>
+  <programme start="20210305053000 -0600" stop="20210305060000 -0600" channel="12">
+    <title lang="es">Promuevete</title>
+  </programme>
+  <programme start="20210305060000 -0600" stop="20210305063000 -0600" channel="12">
+    <title lang="es">Santo Rosario</title>
+  </programme>
+  <programme start="20210305063000 -0600" stop="20210305080000 -0600" channel="12">
+    <title lang="es">Costa rica noticias</title>
+  </programme>
+  <programme start="20210305080000 -0600" stop="20210305090000 -0600" channel="12">
+    <title lang="es">Café nacional - Aprendo en casa, primera infancia</title>
+  </programme>
+  <programme start="20210305090000 -0600" stop="20210305100000 -0600" channel="12">
+    <title lang="es">Café nacional - Aprendo en casa, primera infancia</title>
+  </programme>
+  <programme start="20210305100000 -0600" stop="20210305103000 -0600" channel="12">
+    <title lang="es">Sésamo</title>
+  </programme>
+  <programme start="20210305103000 -0600" stop="20210305110000 -0600" channel="12">
+    <title lang="es">Sin secretos con Doris</title>
+  </programme>
+  <programme start="20210305110000 -0600" stop="20210305113000 -0600" channel="12">
+    <title lang="es">La magia del color</title>
+  </programme>
+  <programme start="20210305113000 -0600" stop="20210305120000 -0600" channel="12">
+    <title lang="es">La pulperia</title>
+  </programme>
+  <programme start="20210305120000 -0600" stop="20210305130000 -0600" channel="12">
+    <title lang="es">Costa rica noticias</title>
+  </programme>
+  <programme start="20210305130000 -0600" stop="20210305133000 -0600" channel="12">
+    <title lang="es">Conferencia de Prensa Casa Presidencial - Actualización Coronavirus</title>
+  </programme>
+  <programme start="20210305133000 -0600" stop="20210305140000 -0600" channel="12">
+    <title lang="es">Soluciones del trece</title>
+  </programme>
+  <programme start="20210305140000 -0600" stop="20210305141500 -0600" channel="12">
+    <title lang="es">Costa Rica noticias - Regional</title>
+  </programme>
+  <programme start="20210305141500 -0600" stop="20210305143000 -0600" channel="12">
+    <title lang="es">Especial - Coronavirus DW</title>
+  </programme>
+  <programme start="20210305143000 -0600" stop="20210305150000 -0600" channel="12">
+    <title lang="es">Sin secretos con Doris</title>
+  </programme>
+  <programme start="20210305150000 -0600" stop="20210305160000 -0600" channel="12">
+    <title lang="es">Café nacional - Aprendo en casa, primera infancia</title>
+  </programme>
+  <programme start="20210305160000 -0600" stop="20210305170000 -0600" channel="12">
+    <title lang="es">Café nacional - Aprendo en casa, primera infancia</title>
+  </programme>
+  <programme start="20210305170000 -0600" stop="20210305171500 -0600" channel="12">
+    <title lang="es">Especial - Coronavirus DW</title>
+  </programme>
+  <programme start="20210305171500 -0600" stop="20210305180000 -0600" channel="12">
+    <title lang="es">Santa misa desde Catedral Metropolitana</title>
+  </programme>
+  <programme start="20210305180000 -0600" stop="20210305190000 -0600" channel="12">
+    <title lang="es">Coronavirus, la pandemia</title>
+  </programme>
+  <programme start="20210305190000 -0600" stop="20210305200000 -0600" channel="12">
+    <title lang="es">Costa rica noticias</title>
+  </programme>
+  <programme start="20210305200000 -0600" stop="20210305210000 -0600" channel="12">
+    <title lang="es">Sinart en casa</title>
+  </programme>
+  <programme start="20210305210000 -0600" stop="20210305220000 -0600" channel="12">
+    <title lang="es">Bunshiro</title>
+  </programme>
+  <programme start="20210305220000 -0600" stop="20210305230000 -0600" channel="12">
+    <title lang="es">Fábricas Tandil</title>
+  </programme>
+  <programme start="20210305230000 -0600" stop="20210305233000 -0600" channel="12">
+    <title lang="es">Código Trece</title>
+  </programme>
+  <programme start="20210305233000 -0600" stop="20210306000000 -0600" channel="12">
+    <title lang="es">Instinto</title>
+  </programme>
+  <programme start="20210306000000 -0600" stop="20210306010000 -0600" channel="12">
+    <title lang="es">Costa rica noticias</title>
+  </programme>
+  <programme start="20210306010000 -0600" stop="20210306020000 -0600" channel="12">
+    <title lang="es">Sinart en casa</title>
+  </programme>
+  <programme start="20210306020000 -0600" stop="20210306033000 -0600" channel="12">
+    <title lang="es">Arte trece</title>
+  </programme>
+  <programme start="20210306040000 -0600" stop="20210306043000 -0600" channel="12">
+    <title lang="es">La magia del color</title>
+  </programme>
+  <programme start="20210306063000 -0600" stop="20210306070000 -0600" channel="12">
+    <title lang="es">Nexos</title>
+  </programme>
+  <programme start="20210306070000 -0600" stop="20210306073000 -0600" channel="12">
+    <title lang="es">Documentales - Uned</title>
+  </programme>
+  <programme start="20210306073000 -0600" stop="20210306080000 -0600" channel="12">
+    <title lang="es">El mundo de Arcadio</title>
+  </programme>
+  <programme start="20210306080000 -0600" stop="20210306083000 -0600" channel="12">
+    <title lang="es">Promuevete</title>
+  </programme>
+  <programme start="20210306083000 -0600" stop="20210306090000 -0600" channel="12">
+    <title lang="es">Black Jack</title>
+  </programme>
+  <programme start="20210306090000 -0600" stop="20210306110000 -0600" channel="12">
+    <title lang="es">Maratón Plaza Sésamo</title>
+  </programme>
+  <programme start="20210306110000 -0600" stop="20210306113000 -0600" channel="12">
+    <title lang="es">El club de la Pájara Pinta</title>
+  </programme>
+  <programme start="20210306113000 -0600" stop="20210306120000 -0600" channel="12">
+    <title lang="es">De China a tu cocina</title>
+  </programme>
+  <programme start="20210306120000 -0600" stop="20210306130000 -0600" channel="12">
+    <title lang="es">La ruta de Enrique</title>
+  </programme>
+  <programme start="20210306130000 -0600" stop="20210306133000 -0600" channel="12">
+    <title lang="es">Soluciones del trece</title>
+  </programme>
+  <programme start="20210306133000 -0600" stop="20210306140000 -0600" channel="12">
+    <title lang="es">Costa Rica noticias - Regional</title>
+  </programme>
+  <programme start="20210306140000 -0600" stop="20210306143000 -0600" channel="12">
+    <title lang="es">Con sabor y saber</title>
+  </programme>
+  <programme start="20210306143000 -0600" stop="20210306150000 -0600" channel="12">
+    <title lang="es">Código Trece</title>
+  </programme>
+  <programme start="20210306150000 -0600" stop="20210306153000 -0600" channel="12">
+    <title lang="es">Falamos portugues</title>
+  </programme>
+  <programme start="20210306153000 -0600" stop="20210306160000 -0600" channel="12">
+    <title lang="es">Guitarra en mano</title>
+  </programme>
+  <programme start="20210306160000 -0600" stop="20210306163000 -0600" channel="12">
+    <title lang="es">Forjadores</title>
+  </programme>
+  <programme start="20210306163000 -0600" stop="20210306170000 -0600" channel="12">
+    <title lang="es">Documentales - Uned</title>
+  </programme>
+  <programme start="20210306170000 -0600" stop="20210306180000 -0600" channel="12">
+    <title lang="es">Bunshiro</title>
+  </programme>
+  <programme start="20210306180000 -0600" stop="20210306183000 -0600" channel="12">
+    <title lang="es">Resumen - Costa Rica noticias</title>
+  </programme>
+  <programme start="20210306183000 -0600" stop="20210306193000 -0600" channel="12">
+    <title lang="es">Coronavirus, la pandemia</title>
+  </programme>
+  <programme start="20210306193000 -0600" stop="20210306200000 -0600" channel="12">
+    <title lang="es">Manos a la obra</title>
+  </programme>
+  <programme start="20210306210000 -0600" stop="20210306220000 -0600" channel="12">
+    <title lang="es">Musicales del 13</title>
+  </programme>
+  <programme start="20210306220000 -0600" stop="20210306230000 -0600" channel="12">
+    <title lang="es">Planeta pop</title>
+  </programme>
+  <programme start="20210306230000 -0600" stop="20210306234500 -0600" channel="12">
+    <title lang="es">Europa en concierto</title>
+  </programme>
+  <programme start="20210306234500 -0600" stop="20210307000000 -0600" channel="12">
+    <title lang="es">Instinto</title>
+  </programme>
+  <programme start="20210307000000 -0600" stop="20210307003000 -0600" channel="12">
+    <title lang="es">Resumen - Costa Rica noticias</title>
+  </programme>
+  <programme start="20210307003000 -0600" stop="20210307013000 -0600" channel="12">
+    <title lang="es">Planeta pop</title>
+  </programme>
+  <programme start="20210307013000 -0600" stop="20210307023000 -0600" channel="12">
+    <title lang="es">La ruta de Enrique</title>
+  </programme>
+  <programme start="20210307023000 -0600" stop="20210307033000 -0600" channel="12">
+    <title lang="es">Sinart en casa</title>
+  </programme>
+  <programme start="20210307033000 -0600" stop="20210307040000 -0600" channel="12">
+    <title lang="es">Instinto</title>
+  </programme>
+  <programme start="20210307040000 -0600" stop="20210307043000 -0600" channel="12">
+    <title lang="es">El mundo de Arcadio</title>
+  </programme>
+  <programme start="20210307043000 -0600" stop="20210307050000 -0600" channel="12">
+    <title lang="es">Costa Rica noticias - Regional</title>
+  </programme>
+  <programme start="20210307050000 -0600" stop="20210307060000 -0600" channel="12">
+    <title lang="es">Musicales del 13</title>
+  </programme>
+  <programme start="20210307063000 -0600" stop="20210307073000 -0600" channel="12">
+    <title lang="es">Planeta pop</title>
+  </programme>
+  <programme start="20210307073000 -0600" stop="20210307080000 -0600" channel="12">
+    <title lang="es">Instinto</title>
+  </programme>
+  <programme start="20210307080000 -0600" stop="20210307083000 -0600" channel="12">
+    <title lang="es">Promuevete</title>
+  </programme>
+  <programme start="20210307083000 -0600" stop="20210307090000 -0600" channel="12">
+    <title lang="es">Economía creativa</title>
+  </programme>
+  <programme start="20210307090000 -0600" stop="20210307100000 -0600" channel="12">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20210307100000 -0600" stop="20210307103000 -0600" channel="12">
+    <title lang="es">Vidas cruzadas, diarios de sobrevivencia</title>
+  </programme>
+  <programme start="20210307103000 -0600" stop="20210307110000 -0600" channel="12">
+    <title lang="es">Cine en cortos</title>
+  </programme>
+  <programme start="20210307110000 -0600" stop="20210307120000 -0600" channel="12">
+    <title lang="es">Código verde</title>
+  </programme>
+  <programme start="20210307120000 -0600" stop="20210307130000 -0600" channel="12">
+    <title lang="es">Soluciones del trece</title>
+  </programme>
+  <programme start="20210307130000 -0600" stop="20210307133000 -0600" channel="12">
+    <title lang="es">Costa Rica noticias - Regional</title>
+  </programme>
+  <programme start="20210307133000 -0600" stop="20210307140000 -0600" channel="12">
+    <title lang="es">Fuerza latina</title>
+  </programme>
+  <programme start="20210307140000 -0600" stop="20210307143000 -0600" channel="12">
+    <title lang="es">Arte trece</title>
+  </programme>
+  <programme start="20210307143000 -0600" stop="20210307160000 -0600" channel="12">
+    <title lang="es">Músicos de Latinoamérica</title>
+  </programme>
+  <programme start="20210307160000 -0600" stop="20210307170000 -0600" channel="12">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20210307170000 -0600" stop="20210307180000 -0600" channel="12">
+    <title lang="es">Resumen - Costa Rica noticias</title>
+  </programme>
+  <programme start="20210305060000 -0600" stop="20210305070000 -0600" channel="18">
+    <title lang="es">Documental - Docu cocina</title>
+  </programme>
+  <programme start="20210305070000 -0600" stop="20210305080000 -0600" channel="18">
+    <title lang="es">Tierra de niños</title>
+  </programme>
+  <programme start="20210305080000 -0600" stop="20210305083000 -0600" channel="18">
+    <title lang="es">Camino al éxito</title>
+  </programme>
+  <programme start="20210305083000 -0600" stop="20210305090000 -0600" channel="18">
+    <title lang="es">Música Televida</title>
+  </programme>
+  <programme start="20210305090000 -0600" stop="20210305093000 -0600" channel="18">
+    <title lang="es">Documental - Docu cocina</title>
+  </programme>
+  <programme start="20210305093000 -0600" stop="20210305100000 -0600" channel="18">
+    <title lang="es">Recibiendo bendiciones</title>
+  </programme>
+  <programme start="20210305100000 -0600" stop="20210305110000 -0600" channel="18">
+    <title lang="es">Como en casa</title>
+  </programme>
+  <programme start="20210305110000 -0600" stop="20210305113000 -0600" channel="18">
+    <title lang="es">Vive +</title>
+  </programme>
+  <programme start="20210305113000 -0600" stop="20210305120000 -0600" channel="18">
+    <title lang="es">Camino al éxito</title>
+  </programme>
+  <programme start="20210305120000 -0600" stop="20210305123000 -0600" channel="18">
+    <title lang="es">Extra formato</title>
+  </programme>
+  <programme start="20210305123000 -0600" stop="20210305130000 -0600" channel="18">
+    <title lang="es">Ruta típica, Costa Rica</title>
+  </programme>
+  <programme start="20210305130000 -0600" stop="20210305133000 -0600" channel="18">
+    <title lang="es">Saber vivir</title>
+  </programme>
+  <programme start="20210305133000 -0600" stop="20210305140000 -0600" channel="18">
+    <title lang="es">Música Televida</title>
+  </programme>
+  <programme start="20210305140000 -0600" stop="20210305150000 -0600" channel="18">
+    <title lang="es">Tierra de niños</title>
+  </programme>
+  <programme start="20210305150000 -0600" stop="20210305160000 -0600" channel="18">
+    <title lang="es">Música Televida</title>
+  </programme>
+  <programme start="20210305160000 -0600" stop="20210305163000 -0600" channel="18">
+    <title lang="es">Camino al éxito</title>
+  </programme>
+  <programme start="20210305163000 -0600" stop="20210305170000 -0600" channel="18">
+    <title lang="es">Saber vivir</title>
+  </programme>
+  <programme start="20210305170000 -0600" stop="20210305180000 -0600" channel="18">
+    <title lang="es">Abogados en acción</title>
+  </programme>
+  <programme start="20210305180000 -0600" stop="20210305183000 -0600" channel="18">
+    <title lang="es">Extra formato</title>
+  </programme>
+  <programme start="20210305183000 -0600" stop="20210305190000 -0600" channel="18">
+    <title lang="es">Ruta típica, Costa Rica</title>
+  </programme>
+  <programme start="20210305190000 -0600" stop="20210305203000 -0600" channel="18">
+    <title lang="es">Cantala sin miedo</title>
+  </programme>
+  <programme start="20210305203000 -0600" stop="20210305210000 -0600" channel="18">
+    <title lang="es">El destino de la suerte</title>
+  </programme>
+  <programme start="20210305210000 -0600" stop="20210305213000 -0600" channel="18">
+    <title lang="es">Extra formato</title>
+  </programme>
+  <programme start="20210305213000 -0600" stop="20210305220000 -0600" channel="18">
+    <title lang="es">Música Televida</title>
+  </programme>
+  <programme start="20210305220000 -0600" stop="20210305230000 -0600" channel="18">
+    <title lang="es">Documental - Docu cocina</title>
+  </programme>
+  <programme start="20210305230000 -0600" stop="20210305233000 -0600" channel="18">
+    <title lang="es">Camino al éxito</title>
+  </programme>
+  <programme start="20210305233000 -0600" stop="20210306000000 -0600" channel="18">
+    <title lang="es">Urbano</title>
+  </programme>
+  <programme start="20210306060000 -0600" stop="20210306070000 -0600" channel="18">
+    <title lang="es">Música Televida</title>
+  </programme>
+  <programme start="20210306070000 -0600" stop="20210306073000 -0600" channel="18">
+    <title lang="es">Documental - Docu cocina</title>
+  </programme>
+  <programme start="20210306073000 -0600" stop="20210306080000 -0600" channel="18">
+    <title lang="es">Recibiendo bendiciones</title>
+  </programme>
+  <programme start="20210306080000 -0600" stop="20210306083000 -0600" channel="18">
+    <title lang="es">Superlibro</title>
+  </programme>
+  <programme start="20210306083000 -0600" stop="20210306090000 -0600" channel="18">
+    <title lang="es">Saber vivir</title>
+  </programme>
+  <programme start="20210306090000 -0600" stop="20210306100000 -0600" channel="18">
+    <title lang="es">Con sabor y saber</title>
+  </programme>
+  <programme start="20210306100000 -0600" stop="20210306103000 -0600" channel="18">
+    <title lang="es">El destino de la suerte</title>
+  </programme>
+  <programme start="20210306103000 -0600" stop="20210306110000 -0600" channel="18">
+    <title lang="es">Saber vivir</title>
+  </programme>
+  <programme start="20210306110000 -0600" stop="20210306120000 -0600" channel="18">
+    <title lang="es">Tierra de niños</title>
+  </programme>
+  <programme start="20210306120000 -0600" stop="20210306123000 -0600" channel="18">
+    <title lang="es">Recibiendo bendiciones</title>
+  </programme>
+  <programme start="20210306123000 -0600" stop="20210306130000 -0600" channel="18">
+    <title lang="es">Música Televida</title>
+  </programme>
+  <programme start="20210306130000 -0600" stop="20210306133000 -0600" channel="18">
+    <title lang="es">Más Deporte</title>
+  </programme>
+  <programme start="20210306133000 -0600" stop="20210306140000 -0600" channel="18">
+    <title lang="es">Saber vivir</title>
+  </programme>
+  <programme start="20210306140000 -0600" stop="20210306143000 -0600" channel="18">
+    <title lang="es">Recibiendo bendiciones</title>
+  </programme>
+  <programme start="20210306143000 -0600" stop="20210306150000 -0600" channel="18">
+    <title lang="es">Música Televida</title>
+  </programme>
+  <programme start="20210306150000 -0600" stop="20210306153000 -0600" channel="18">
+    <title lang="es">La nueva normalidad</title>
+  </programme>
+  <programme start="20210306153000 -0600" stop="20210306160000 -0600" channel="18">
+    <title lang="es">El destino de la suerte</title>
+  </programme>
+  <programme start="20210306160000 -0600" stop="20210306180000 -0600" channel="18">
+    <title lang="es">Detente y acelera</title>
+  </programme>
+  <programme start="20210306180000 -0600" stop="20210306200000 -0600" channel="18">
+    <title lang="es">Bingo extra</title>
+  </programme>
+  <programme start="20210306200000 -0600" stop="20210306203000 -0600" channel="18">
+    <title lang="es">Música Televida</title>
+  </programme>
+  <programme start="20210306203000 -0600" stop="20210306210000 -0600" channel="18">
+    <title lang="es">El destino de la suerte</title>
+  </programme>
+  <programme start="20210306210000 -0600" stop="20210306220000 -0600" channel="18">
+    <title lang="es">Hablemos de teatro</title>
+  </programme>
+  <programme start="20210306230000 -0600" stop="20210307000000 -0600" channel="18">
+    <title lang="es">Música Televida</title>
+  </programme>
+  <programme start="20210307060000 -0600" stop="20210307073000 -0600" channel="18">
+    <title lang="es">Música Televida</title>
+  </programme>
+  <programme start="20210307073000 -0600" stop="20210307080000 -0600" channel="18">
+    <title lang="es">Recibiendo bendiciones</title>
+  </programme>
+  <programme start="20210307080000 -0600" stop="20210307083000 -0600" channel="18">
+    <title lang="es">Documental - Docu cocina</title>
+  </programme>
+  <programme start="20210307090000 -0600" stop="20210307100000 -0600" channel="18">
+    <title lang="es">Saber vivir</title>
+  </programme>
+  <programme start="20210307100000 -0600" stop="20210307103000 -0600" channel="18">
+    <title lang="es">El destino de la suerte</title>
+  </programme>
+  <programme start="20210307103000 -0600" stop="20210307110000 -0600" channel="18">
+    <title lang="es">Saber vivir</title>
+  </programme>
+  <programme start="20210307110000 -0600" stop="20210307120000 -0600" channel="18">
+    <title lang="es">Tierra de niños</title>
+  </programme>
+  <programme start="20210307120000 -0600" stop="20210307123000 -0600" channel="18">
+    <title lang="es">Recibiendo bendiciones</title>
+  </programme>
+  <programme start="20210307123000 -0600" stop="20210307130000 -0600" channel="18">
+    <title lang="es">Música Televida</title>
+  </programme>
+  <programme start="20210307130000 -0600" stop="20210307133000 -0600" channel="18">
+    <title lang="es">Documental - Docu cocina</title>
+  </programme>
+  <programme start="20210307133000 -0600" stop="20210307140000 -0600" channel="18">
+    <title lang="es">Saber vivir</title>
+  </programme>
+  <programme start="20210307140000 -0600" stop="20210307150000 -0600" channel="18">
+    <title lang="es">Vida dura</title>
+  </programme>
+  <programme start="20210307150000 -0600" stop="20210307153000 -0600" channel="18">
+    <title lang="es">Voto extra</title>
+  </programme>
+  <programme start="20210307153000 -0600" stop="20210307160000 -0600" channel="18">
+    <title lang="es">El destino de tu suerte</title>
+  </programme>
+  <programme start="20210307160000 -0600" stop="20210307170000 -0600" channel="18">
+    <title lang="es">Los días felices de Doudou</title>
+  </programme>
+  <programme start="20210307170000 -0600" stop="20210307180000 -0600" channel="18">
+    <title lang="es">Familia dorada</title>
+  </programme>
+</tv>
