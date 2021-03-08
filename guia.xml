@@ -44,9 +44,6 @@
     <display-name lang="es">Soy Plancha</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20210307030000 -0600" stop="20210314060000 -0600" channel="31">
-    <title lang="es">Musica Plancha 24/7</title>
-  </programme>
   <programme start="20210307030000 -0600" stop="20210307060000 -0600" channel="2">
     <title lang="es">Canal 4 Costa Rica</title>
   </programme>
@@ -1357,5 +1354,8 @@
   </programme>
   <programme start="20210308170000 -0600" stop="20210308190000 -0600" channel="56">
     <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20210307030000 -0600" stop="20210314060000 -0600" channel="31">
+    <title lang="es">Musica Plancha 24/7</title>
   </programme>
 </tv>
