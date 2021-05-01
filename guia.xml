@@ -525,6 +525,9 @@
   <programme start="20210502180000 -0600" stop="20210502190000 -0600" channel="3">
     <title lang="es">Deportes Repretel</title>
   </programme>
+  <programme start="20210502190000 -0600" stop="20210502200000 -0600" channel="3">
+    <title lang="es">Noticias Repretel</title>
+  </programme>
   <programme start="20210502200000 -0600" stop="20210502220000 -0600" channel="3">
     <title lang="es">Deepwater Horizon</title>
   </programme>
@@ -8548,6 +8551,9 @@
   </programme>
   <programme start="20210501183000 -0600" stop="20210501190000 -0600" channel="DW">
     <title lang="es">Cultura.21</title>
+  </programme>
+  <programme start="20210501190000 -0600" stop="20210501191500 -0600" channel="DW">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20210501193000 -0600" stop="20210501200000 -0600" channel="DW">
     <title lang="es">En Forma</title>
