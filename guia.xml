@@ -280,10 +280,118 @@
   <programme start="20210502233000 -0600" stop="20210503000000 -0600" channel="58">
     <title lang="es">TV Golf</title>
   </programme>
-  <programme start="20210503000000 -0600" stop="20210503120000 -0600" channel="58">
-    <title lang="es">Tigo Sports</title>
+  <programme start="20210503000000 -0600" stop="20210503010000 -0600" channel="58">
+    <title lang="es">El chiringuito</title>
   </programme>
-  <programme start="20210503120000 -0600" stop="20210504000000 -0600" channel="58">
-    <title lang="es">Tigo Sports</title>
+  <programme start="20210503010000 -0600" stop="20210503030000 -0600" channel="58">
+    <title lang="es">Formula E</title>
+  </programme>
+  <programme start="20210503030000 -0600" stop="20210503040000 -0600" channel="58">
+    <title lang="es">Nación centroamericana</title>
+  </programme>
+  <programme start="20210503040000 -0600" stop="20210503060000 -0600" channel="58">
+    <title lang="es">Guadalupe vs. ADR Jicaral</title>
+  </programme>
+  <programme start="20210503070000 -0600" stop="20210503080000 -0600" channel="58">
+    <title lang="es">FItness</title>
+  </programme>
+  <programme start="20210503090000 -0600" stop="20210503100000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
+  </programme>
+  <programme start="20210503100000 -0600" stop="20210503110000 -0600" channel="58">
+    <title lang="es">FItness</title>
+  </programme>
+  <programme start="20210503110000 -0600" stop="20210503120000 -0600" channel="58">
+    <title lang="es">Tigo Sports AM</title>
+  </programme>
+  <programme start="20210503120000 -0600" stop="20210503130000 -0600" channel="58">
+    <title lang="es">Futbol por dentro</title>
+  </programme>
+  <programme start="20210503140000 -0600" stop="20210503150000 -0600" channel="58">
+    <title lang="es">Monte presenta</title>
+  </programme>
+  <programme start="20210503150000 -0600" stop="20210503153000 -0600" channel="58">
+    <title lang="es">Corazon de la Peninsula</title>
+  </programme>
+  <programme start="20210503153000 -0600" stop="20210503160000 -0600" channel="58">
+    <title lang="es">Velocidad bajo control</title>
+  </programme>
+  <programme start="20210503160000 -0600" stop="20210503163000 -0600" channel="58">
+    <title lang="es">Entrevista</title>
+  </programme>
+  <programme start="20210503163000 -0600" stop="20210503170000 -0600" channel="58">
+    <title lang="es">eSports</title>
+  </programme>
+  <programme start="20210503170000 -0600" stop="20210503180000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210503180000 -0600" stop="20210503183000 -0600" channel="58">
+    <title lang="es">Fanatikos</title>
+  </programme>
+  <programme start="20210503183000 -0600" stop="20210503213000 -0600" channel="58">
+    <title lang="es">Sporting San Jose vs. Alajuelense</title>
+  </programme>
+  <programme start="20210503213000 -0600" stop="20210503223000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
+  </programme>
+  <programme start="20210503223000 -0600" stop="20210503230000 -0600" channel="58">
+    <title lang="es">Entrevista</title>
+  </programme>
+  <programme start="20210503230000 -0600" stop="20210504000000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210504010000 -0600" stop="20210504030000 -0600" channel="58">
+    <title lang="es">Formula E</title>
+  </programme>
+  <programme start="20210504040000 -0600" stop="20210504060000 -0600" channel="58">
+    <title lang="es">Sporting San Jose vs. Alajuelense</title>
+  </programme>
+  <programme start="20210504070000 -0600" stop="20210504080000 -0600" channel="58">
+    <title lang="es">FItness</title>
+  </programme>
+  <programme start="20210504080000 -0600" stop="20210504090000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210504110000 -0600" stop="20210504113000 -0600" channel="58">
+    <title lang="es">Fanatikos</title>
+  </programme>
+  <programme start="20210504113000 -0600" stop="20210504120000 -0600" channel="58">
+    <title lang="es">Corazon de la Peninsula</title>
+  </programme>
+  <programme start="20210504120000 -0600" stop="20210504130000 -0600" channel="58">
+    <title lang="es">Futbol por dentro</title>
+  </programme>
+  <programme start="20210504130000 -0600" stop="20210504140000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
+  </programme>
+  <programme start="20210504140000 -0600" stop="20210504150000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210504150000 -0600" stop="20210504170000 -0600" channel="58">
+    <title lang="es">Guadalupe vs. ADR Jicaral</title>
+  </programme>
+  <programme start="20210504180000 -0600" stop="20210504190000 -0600" channel="58">
+    <title lang="es">Monte presenta</title>
+  </programme>
+  <programme start="20210504190000 -0600" stop="20210504193000 -0600" channel="58">
+    <title lang="es">Fútbol Magazine</title>
+  </programme>
+  <programme start="20210504193000 -0600" stop="20210504200000 -0600" channel="58">
+    <title lang="es">Fútbol Magazine</title>
+  </programme>
+  <programme start="20210504200000 -0600" stop="20210504203000 -0600" channel="58">
+    <title lang="es">Adrenalina</title>
+  </programme>
+  <programme start="20210504203000 -0600" stop="20210504210000 -0600" channel="58">
+    <title lang="es">Adrenalina</title>
+  </programme>
+  <programme start="20210504210000 -0600" stop="20210504220000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
+  </programme>
+  <programme start="20210504220000 -0600" stop="20210504230000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210504230000 -0600" stop="20210505000000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
   </programme>
 </tv>
