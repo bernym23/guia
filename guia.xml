@@ -8,354 +8,330 @@
     <display-name lang="es">Tigo Sports</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20210503010000 -0600" stop="20210503013000 -0600" channel="57">
+  <programme start="20210506010000 -0600" stop="20210506013000 -0600" channel="57">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20210503013000 -0600" stop="20210503020000 -0600" channel="57">
+  <programme start="20210506013000 -0600" stop="20210506020000 -0600" channel="57">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20210503020000 -0600" stop="20210503023000 -0600" channel="57">
+  <programme start="20210506020000 -0600" stop="20210506023000 -0600" channel="57">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20210503023000 -0600" stop="20210503030000 -0600" channel="57">
+  <programme start="20210506023000 -0600" stop="20210506030000 -0600" channel="57">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20210503030000 -0600" stop="20210503033000 -0600" channel="57">
+  <programme start="20210506030000 -0600" stop="20210506033000 -0600" channel="57">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20210503033000 -0600" stop="20210503040000 -0600" channel="57">
+  <programme start="20210506033000 -0600" stop="20210506040000 -0600" channel="57">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20210503040000 -0600" stop="20210503043000 -0600" channel="57">
+  <programme start="20210506040000 -0600" stop="20210506043000 -0600" channel="57">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20210503043000 -0600" stop="20210503050000 -0600" channel="57">
+  <programme start="20210506043000 -0600" stop="20210506050000 -0600" channel="57">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20210503050000 -0600" stop="20210503053000 -0600" channel="57">
-    <title lang="es">The Locker Room</title>
-  </programme>
-  <programme start="20210503053000 -0600" stop="20210503060000 -0600" channel="57">
-    <title lang="es">LaLIga: Elche vs. Atletico de Madrid</title>
-  </programme>
-  <programme start="20210503060000 -0600" stop="20210503063000 -0600" channel="57">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210503063000 -0600" stop="20210503070000 -0600" channel="57">
-    <title lang="es">LaLiga: Real Madrid vs. Osasuna</title>
-  </programme>
-  <programme start="20210503070000 -0600" stop="20210503073000 -0600" channel="57">
-    <title lang="es">The Locker Room</title>
-  </programme>
-  <programme start="20210503073000 -0600" stop="20210503080000 -0600" channel="57">
-    <title lang="es">LaLiga: Valencia vs. Barcelona</title>
-  </programme>
-  <programme start="20210503080000 -0600" stop="20210503083000 -0600" channel="57">
-    <title lang="es">Ligue 1: Paris Saint-Germain vs. Lens</title>
-  </programme>
-  <programme start="20210503083000 -0600" stop="20210503090000 -0600" channel="57">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20210503090000 -0600" stop="20210503093000 -0600" channel="57">
-    <title lang="es">Superliga: Genclerbirligi vs. Galatasaray</title>
-  </programme>
-  <programme start="20210503093000 -0600" stop="20210503100000 -0600" channel="57">
+  <programme start="20210506050000 -0600" stop="20210506053000 -0600" channel="57">
     <title lang="es">La liga World</title>
   </programme>
-  <programme start="20210503100000 -0600" stop="20210503120000 -0600" channel="57">
+  <programme start="20210506053000 -0600" stop="20210506060000 -0600" channel="57">
+    <title lang="es">This is Paris</title>
+  </programme>
+  <programme start="20210506060000 -0600" stop="20210506063000 -0600" channel="57">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210506063000 -0600" stop="20210506083000 -0600" channel="57">
     <title lang="es">Elche vs. Atlético de Madrid</title>
     <desc lang="es">Elche CF recibe al Atlético de Madrid en el estadio Martínez Valero en la ciudad de Elche, Comunidad Valenciana, España.(n)</desc>
     <category lang="es">Fútbol</category>
     <category lang="es">Fútbol Español</category>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/elche_vs_atletico_de_madrid.png" />
   </programme>
-  <programme start="20210503120000 -0600" stop="20210503123000 -0600" channel="57">
-    <title lang="es">Super LIga: Besiktas vs. Hatayspor</title>
-  </programme>
-  <programme start="20210503123000 -0600" stop="20210503125000 -0600" channel="57">
-    <title lang="es">La liga World</title>
-  </programme>
-  <programme start="20210503125000 -0600" stop="20210503150000 -0600" channel="57">
-    <title lang="es">Sevilla vs. Athletic Club</title>
-  </programme>
-  <programme start="20210503150000 -0600" stop="20210503153000 -0600" channel="57">
-    <title lang="es">The Soccer Xtra</title>
-  </programme>
-  <programme start="20210503153000 -0600" stop="20210503163000 -0600" channel="57">
-    <title lang="es">La Liga Highlight Zone</title>
-  </programme>
-  <programme start="20210503163000 -0600" stop="20210503170000 -0600" channel="57">
-    <title lang="es">The Ligue 1 Show</title>
-  </programme>
-  <programme start="20210503170000 -0600" stop="20210503180000 -0600" channel="57">
-    <title lang="es">Highlights</title>
-  </programme>
-  <programme start="20210503180000 -0600" stop="20210503183000 -0600" channel="57">
-    <title lang="es">LaLiga: Real Madrid vs. Osasuna</title>
-  </programme>
-  <programme start="20210503183000 -0600" stop="20210503190000 -0600" channel="57">
-    <title lang="es">LaLiga: Valencia vs. Barcelona</title>
-  </programme>
-  <programme start="20210503190000 -0600" stop="20210503200000 -0600" channel="57">
-    <title lang="es">The Locker Room</title>
-  </programme>
-  <programme start="20210503200000 -0600" stop="20210503220000 -0600" channel="57">
-    <title lang="es">Fenerbahce vs. BB Erzurumspor</title>
-  </programme>
-  <programme start="20210503220000 -0600" stop="20210503230000 -0600" channel="57">
-    <title lang="es">The Locker Room</title>
-  </programme>
-  <programme start="20210503230000 -0600" stop="20210504010000 -0600" channel="57">
-    <title lang="es">Paris Saint-Germain vs. Lens</title>
-  </programme>
-  <programme start="20210504050000 -0600" stop="20210504060000 -0600" channel="57">
-    <title lang="es">The Locker Room</title>
-  </programme>
-  <programme start="20210504060000 -0600" stop="20210504063000 -0600" channel="57">
+  <programme start="20210506083000 -0600" stop="20210506090000 -0600" channel="57">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20210504063000 -0600" stop="20210504070000 -0600" channel="57">
-    <title lang="es">Superliga: Fenerbahce vs. BB Erzurumspor</title>
-  </programme>
-  <programme start="20210504070000 -0600" stop="20210504080000 -0600" channel="57">
-    <title lang="es">The Locker Room</title>
-  </programme>
-  <programme start="20210504080000 -0600" stop="20210504083000 -0600" channel="57">
-    <title lang="es">Super LIga: Besiktas vs. Hatayspor</title>
-  </programme>
-  <programme start="20210504090000 -0600" stop="20210504110000 -0600" channel="57">
-    <title lang="es">Eibar vs. Alavés</title>
-  </programme>
-  <programme start="20210504110000 -0600" stop="20210504130000 -0600" channel="57">
-    <title lang="es">Besiktas vs. Hatayspor</title>
-  </programme>
-  <programme start="20210504130000 -0600" stop="20210504150000 -0600" channel="57">
-    <title lang="es">Valladolid vs. Betis</title>
-  </programme>
-  <programme start="20210504150000 -0600" stop="20210504160000 -0600" channel="57">
-    <title lang="es">Highlights</title>
-  </programme>
-  <programme start="20210504160000 -0600" stop="20210504160500 -0600" channel="57">
-    <title lang="es">The Express Preview</title>
-  </programme>
-  <programme start="20210504160500 -0600" stop="20210504181500 -0600" channel="57">
-    <title lang="es">Santos vs. The Strongest</title>
-  </programme>
-  <programme start="20210504181500 -0600" stop="20210504182000 -0600" channel="57">
-    <title lang="es">The Express Preview</title>
-  </programme>
-  <programme start="20210504182000 -0600" stop="20210504203000 -0600" channel="57">
-    <title lang="es">Barcelona vs. Boca</title>
-  </programme>
-  <programme start="20210504203000 -0600" stop="20210504223000 -0600" channel="57">
-    <title lang="es">Atlético Mineiro vs. Cerro Porteño</title>
-  </programme>
-  <programme start="20210504223000 -0600" stop="20210504230000 -0600" channel="57">
-    <title lang="es">La liga World</title>
-  </programme>
-  <programme start="20210504230000 -0600" stop="20210505010000 -0600" channel="57">
-    <title lang="es">Barcelona vs. Boca</title>
-  </programme>
-  <programme start="20210505230000 -0600" stop="20210506010000 -0600" channel="57">
-    <title lang="es">Barcelona vs. Boca</title>
-  </programme>
-  <programme start="20210506050000 -0600" stop="20210506060000 -0600" channel="57">
-    <title lang="es">La Liga Highlight Zone</title>
-  </programme>
-  <programme start="20210506063000 -0600" stop="20210506083000 -0600" channel="57">
-    <title lang="es">Real Madrid Vs. Osasuna</title>
-    <desc lang="es">El Real Madrid CF recibe al CA Osasuna en el estadio Santiago Bernabéu en la ciudad de Madrid, España.(n)</desc>
-    <category lang="es">Fútbol</category>
-    <category lang="es">Fútbol Español</category>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/real_madrid_vs_osasuna.png" />
-  </programme>
   <programme start="20210506090000 -0600" stop="20210506110000 -0600" channel="57">
-    <title lang="es">Unión La Calera vs. Vélez</title>
+    <title lang="es">Independiente del Valle vs. Universitario</title>
   </programme>
   <programme start="20210506110000 -0600" stop="20210506130000 -0600" channel="57">
-    <title lang="es">Liga de Quito vs. Flamengo</title>
+    <title lang="es">Rentistas vs. Sporting Cristal</title>
   </programme>
   <programme start="20210506130000 -0600" stop="20210506150000 -0600" channel="57">
-    <title lang="es">Defensa y Justicia vs. Palmeiras</title>
+    <title lang="es">Internacional vs. Olimpia</title>
   </programme>
   <programme start="20210506150000 -0600" stop="20210506153000 -0600" channel="57">
-    <title lang="es">La liga World</title>
+    <title lang="es">La liga show</title>
   </programme>
   <programme start="20210506153000 -0600" stop="20210506155500 -0600" channel="57">
-    <title lang="es">This is Paris</title>
+    <title lang="es">The Ligue 1 Show</title>
   </programme>
   <programme start="20210506155500 -0600" stop="20210506175500 -0600" channel="57">
-    <title lang="es">Racing vs. São Paulo</title>
+    <title lang="es">Junior vs. Fluminense</title>
   </programme>
   <programme start="20210506175500 -0600" stop="20210506195500 -0600" channel="57">
-    <title lang="es">Independiente Santa Fe vs. River</title>
+    <title lang="es">Atlético Nacional vs. Argentinos Juniors</title>
   </programme>
   <programme start="20210506195500 -0600" stop="20210506220000 -0600" channel="57">
-    <title lang="es">Universidad Católica vs. Nacional</title>
+    <title lang="es">Deportivo La Guaira vs. América de Cali</title>
   </programme>
   <programme start="20210506220000 -0600" stop="20210506223000 -0600" channel="57">
-    <title lang="es">La liga World</title>
+    <title lang="es">La liga show</title>
   </programme>
   <programme start="20210506223000 -0600" stop="20210506230000 -0600" channel="57">
-    <title lang="es">This is Paris</title>
+    <title lang="es">The Ligue 1 Show</title>
   </programme>
   <programme start="20210506230000 -0600" stop="20210507010000 -0600" channel="57">
-    <title lang="es">Independiente Santa Fe vs. River</title>
+    <title lang="es">Junior vs. Fluminense</title>
   </programme>
-  <programme start="20210503010000 -0600" stop="20210503030000 -0600" channel="58">
-    <title lang="es">Formula E</title>
+  <programme start="20210507050000 -0600" stop="20210507053000 -0600" channel="57">
+    <title lang="es">La liga show</title>
   </programme>
-  <programme start="20210503030000 -0600" stop="20210503040000 -0600" channel="58">
-    <title lang="es">Nación centroamericana</title>
+  <programme start="20210507053000 -0600" stop="20210507060000 -0600" channel="57">
+    <title lang="es">The Ligue 1 Show</title>
   </programme>
-  <programme start="20210503040000 -0600" stop="20210503060000 -0600" channel="58">
+  <programme start="20210507063000 -0600" stop="20210507083000 -0600" channel="57">
+    <title lang="es">Valencia vs. Barcelona</title>
+    <desc lang="es">El Valencia Club de Fútbol recibe al FC Barcelona en el estadio Mestalla en la ciudad de Valencia, España.(n)</desc>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Europeo</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">Deporte</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/valencia_vs_barcelona.png" />
+  </programme>
+  <programme start="20210507090000 -0600" stop="20210507110000 -0600" channel="57">
+    <title lang="es">Always Ready vs. Deportivo Táchira</title>
+  </programme>
+  <programme start="20210507110000 -0600" stop="20210507113000 -0600" channel="57">
+    <title lang="es">This is Paris</title>
+  </programme>
+  <programme start="20210507113000 -0600" stop="20210507120000 -0600" channel="57">
+    <title lang="es">The Ligue 1 Show</title>
+  </programme>
+  <programme start="20210507120000 -0600" stop="20210507123000 -0600" channel="57">
+    <title lang="es">La liga show</title>
+  </programme>
+  <programme start="20210507123000 -0600" stop="20210507125000 -0600" channel="57">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20210507125000 -0600" stop="20210507150000 -0600" channel="57">
+    <title lang="es">Real Sociedad vs. Elche</title>
+  </programme>
+  <programme start="20210507150000 -0600" stop="20210507153000 -0600" channel="57">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20210507153000 -0600" stop="20210507160000 -0600" channel="57">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20210507160000 -0600" stop="20210507163000 -0600" channel="57">
+    <title lang="es">This is Paris</title>
+  </programme>
+  <programme start="20210507163000 -0600" stop="20210507170000 -0600" channel="57">
+    <title lang="es">La liga show</title>
+  </programme>
+  <programme start="20210507170000 -0600" stop="20210507190000 -0600" channel="57">
+    <title lang="es">Lens vs. Lille</title>
+  </programme>
+  <programme start="20210507190000 -0600" stop="20210507200000 -0600" channel="57">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20210507200000 -0600" stop="20210507220000 -0600" channel="57">
+    <title lang="es">Real Sociedad vs. Elche</title>
+  </programme>
+  <programme start="20210507220000 -0600" stop="20210507230000 -0600" channel="57">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20210507230000 -0600" stop="20210508010000 -0600" channel="57">
+    <title lang="es">Lens vs. Lille</title>
+  </programme>
+  <programme start="20210508050000 -0600" stop="20210508053000 -0600" channel="57">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210508053000 -0600" stop="20210508060000 -0600" channel="57">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210508063000 -0600" stop="20210508073000 -0600" channel="57">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20210508073000 -0600" stop="20210508080500 -0600" channel="57">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20210508080500 -0600" stop="20210508101500 -0600" channel="57">
+    <title lang="es">Barcelona vs. Atlético de Madrid</title>
+    <desc lang="es">El FC Barcelona recibe al Atlético de Madrid en el estadio Camp Nou ubicado en la ciudad de Barcelona, España.(n)</desc>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">Deporte</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/barcelona_vs_atletico_de_madrid.png" />
+  </programme>
+  <programme start="20210508101500 -0600" stop="20210508102000 -0600" channel="57">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20210508102000 -0600" stop="20210508123000 -0600" channel="57">
+    <title lang="es">Cádiz vs. Huesca</title>
+  </programme>
+  <programme start="20210508123000 -0600" stop="20210508125000 -0600" channel="57">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20210508125000 -0600" stop="20210508150000 -0600" channel="57">
+    <title lang="es">Athletic Club vs. Osasuna</title>
+  </programme>
+  <programme start="20210508150000 -0600" stop="20210508160000 -0600" channel="57">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20210508160000 -0600" stop="20210508163000 -0600" channel="57">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20210508163000 -0600" stop="20210508183000 -0600" channel="57">
+    <title lang="es">Galatasaray vs. Besiktas</title>
+  </programme>
+  <programme start="20210508183000 -0600" stop="20210508193000 -0600" channel="57">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20210508193000 -0600" stop="20210508200000 -0600" channel="57">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20210508200000 -0600" stop="20210508220000 -0600" channel="57">
+    <title lang="es">Barcelona vs. Atlético de Madrid</title>
+    <desc lang="es">El FC Barcelona recibe al Atlético de Madrid en el estadio Camp Nou ubicado en la ciudad de Barcelona, España.(n)</desc>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">Deporte</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/barcelona_vs_atletico_de_madrid.png" />
+  </programme>
+  <programme start="20210508220000 -0600" stop="20210509000000 -0600" channel="57">
+    <title lang="es">Galatasaray vs. Besiktas</title>
+  </programme>
+  <programme start="20210506010000 -0600" stop="20210506030000 -0600" channel="58">
     <title lang="es">Guadalupe vs. ADR Jicaral</title>
   </programme>
-  <programme start="20210503060000 -0600" stop="20210503070000 -0600" channel="58">
+  <programme start="20210506030000 -0600" stop="20210506040000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210506040000 -0600" stop="20210506060000 -0600" channel="58">
+    <title lang="es">Formula E</title>
+  </programme>
+  <programme start="20210506060000 -0600" stop="20210506070000 -0600" channel="58">
     <title lang="es">Entrenando con Leryn</title>
   </programme>
-  <programme start="20210503070000 -0600" stop="20210503080000 -0600" channel="58">
+  <programme start="20210506070000 -0600" stop="20210506080000 -0600" channel="58">
     <title lang="es">FItness</title>
   </programme>
-  <programme start="20210503080000 -0600" stop="20210503090000 -0600" channel="58">
+  <programme start="20210506080000 -0600" stop="20210506090000 -0600" channel="58">
     <title lang="es">Tigo Sports AM</title>
   </programme>
-  <programme start="20210503090000 -0600" stop="20210503100000 -0600" channel="58">
+  <programme start="20210506090000 -0600" stop="20210506100000 -0600" channel="58">
     <title lang="es">Chiringuito</title>
   </programme>
-  <programme start="20210503100000 -0600" stop="20210503110000 -0600" channel="58">
+  <programme start="20210506100000 -0600" stop="20210506110000 -0600" channel="58">
     <title lang="es">FItness</title>
   </programme>
-  <programme start="20210503110000 -0600" stop="20210503120000 -0600" channel="58">
+  <programme start="20210506110000 -0600" stop="20210506120000 -0600" channel="58">
     <title lang="es">Tigo Sports AM</title>
   </programme>
-  <programme start="20210503120000 -0600" stop="20210503130000 -0600" channel="58">
+  <programme start="20210506120000 -0600" stop="20210506130000 -0600" channel="58">
     <title lang="es">Futbol por dentro</title>
   </programme>
-  <programme start="20210503130000 -0600" stop="20210503140000 -0600" channel="58">
+  <programme start="20210506130000 -0600" stop="20210506140000 -0600" channel="58">
     <title lang="es">Chiringuito</title>
   </programme>
-  <programme start="20210503140000 -0600" stop="20210503150000 -0600" channel="58">
-    <title lang="es">Monte presenta</title>
-  </programme>
-  <programme start="20210503150000 -0600" stop="20210503153000 -0600" channel="58">
-    <title lang="es">Corazon de la Peninsula</title>
-  </programme>
-  <programme start="20210503153000 -0600" stop="20210503160000 -0600" channel="58">
-    <title lang="es">Velocidad bajo control</title>
-  </programme>
-  <programme start="20210503160000 -0600" stop="20210503163000 -0600" channel="58">
-    <title lang="es">Entrevista</title>
-  </programme>
-  <programme start="20210503163000 -0600" stop="20210503170000 -0600" channel="58">
-    <title lang="es">eSports</title>
-  </programme>
-  <programme start="20210503170000 -0600" stop="20210503180000 -0600" channel="58">
+  <programme start="20210506140000 -0600" stop="20210506150000 -0600" channel="58">
     <title lang="es">Noticiero Tigo Sports</title>
   </programme>
-  <programme start="20210503180000 -0600" stop="20210503183000 -0600" channel="58">
-    <title lang="es">Fanatikos</title>
-  </programme>
-  <programme start="20210503183000 -0600" stop="20210503213000 -0600" channel="58">
-    <title lang="es">Sporting San Jose vs. Alajuelense</title>
-  </programme>
-  <programme start="20210503213000 -0600" stop="20210503223000 -0600" channel="58">
-    <title lang="es">Chiringuito</title>
-  </programme>
-  <programme start="20210503223000 -0600" stop="20210503230000 -0600" channel="58">
-    <title lang="es">Entrevista</title>
-  </programme>
-  <programme start="20210503230000 -0600" stop="20210504000000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210504000000 -0600" stop="20210504010000 -0600" channel="58">
-    <title lang="es">Futbol por dentro</title>
-  </programme>
-  <programme start="20210504010000 -0600" stop="20210504030000 -0600" channel="58">
+  <programme start="20210506150000 -0600" stop="20210506170000 -0600" channel="58">
     <title lang="es">Formula E</title>
   </programme>
-  <programme start="20210504030000 -0600" stop="20210504040000 -0600" channel="58">
+  <programme start="20210506170000 -0600" stop="20210506180000 -0600" channel="58">
     <title lang="es">Noticiero Tigo Sports</title>
   </programme>
-  <programme start="20210504040000 -0600" stop="20210504060000 -0600" channel="58">
-    <title lang="es">Sporting San Jose vs. Alajuelense</title>
-  </programme>
-  <programme start="20210504070000 -0600" stop="20210504080000 -0600" channel="58">
-    <title lang="es">FItness</title>
-  </programme>
-  <programme start="20210504080000 -0600" stop="20210504090000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210504110000 -0600" stop="20210504113000 -0600" channel="58">
+  <programme start="20210506180000 -0600" stop="20210506183000 -0600" channel="58">
     <title lang="es">Fanatikos</title>
   </programme>
-  <programme start="20210504113000 -0600" stop="20210504120000 -0600" channel="58">
+  <programme start="20210506183000 -0600" stop="20210506190000 -0600" channel="58">
+    <title lang="es">Fanatikos</title>
+  </programme>
+  <programme start="20210506190000 -0600" stop="20210506193000 -0600" channel="58">
+    <title lang="es">Entrevista</title>
+  </programme>
+  <programme start="20210506193000 -0600" stop="20210506200000 -0600" channel="58">
     <title lang="es">Corazon de la Peninsula</title>
   </programme>
-  <programme start="20210504120000 -0600" stop="20210504130000 -0600" channel="58">
-    <title lang="es">Futbol por dentro</title>
+  <programme start="20210506200000 -0600" stop="20210506210000 -0600" channel="58">
+    <title lang="es">Monte presenta</title>
   </programme>
-  <programme start="20210504130000 -0600" stop="20210504140000 -0600" channel="58">
+  <programme start="20210506210000 -0600" stop="20210506220000 -0600" channel="58">
     <title lang="es">Chiringuito</title>
   </programme>
-  <programme start="20210504140000 -0600" stop="20210504150000 -0600" channel="58">
+  <programme start="20210506220000 -0600" stop="20210506230000 -0600" channel="58">
     <title lang="es">Noticiero Tigo Sports</title>
   </programme>
-  <programme start="20210504150000 -0600" stop="20210504170000 -0600" channel="58">
+  <programme start="20210506230000 -0600" stop="20210507000000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
+  </programme>
+  <programme start="20210507010000 -0600" stop="20210507030000 -0600" channel="58">
+    <title lang="es">Guadalupe vs. Santos DG</title>
+  </programme>
+  <programme start="20210507040000 -0600" stop="20210507060000 -0600" channel="58">
+    <title lang="es">Santos DG vs. Herediano</title>
+  </programme>
+  <programme start="20210507070000 -0600" stop="20210507080000 -0600" channel="58">
+    <title lang="es">FItness</title>
+  </programme>
+  <programme start="20210507080000 -0600" stop="20210507090000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210507150000 -0600" stop="20210507170000 -0600" channel="58">
     <title lang="es">Guadalupe vs. ADR Jicaral</title>
   </programme>
-  <programme start="20210504180000 -0600" stop="20210504190000 -0600" channel="58">
-    <title lang="es">Monte presenta</title>
+  <programme start="20210507180000 -0600" stop="20210507183000 -0600" channel="58">
+    <title lang="es">Entrevista</title>
   </programme>
-  <programme start="20210504190000 -0600" stop="20210504193000 -0600" channel="58">
-    <title lang="es">Fútbol Magazine</title>
+  <programme start="20210507183000 -0600" stop="20210507190000 -0600" channel="58">
+    <title lang="es">Corazon de la Peninsula</title>
   </programme>
-  <programme start="20210504193000 -0600" stop="20210504200000 -0600" channel="58">
-    <title lang="es">Fútbol Magazine</title>
-  </programme>
-  <programme start="20210504200000 -0600" stop="20210504203000 -0600" channel="58">
-    <title lang="es">Adrenalina</title>
-  </programme>
-  <programme start="20210504203000 -0600" stop="20210504210000 -0600" channel="58">
-    <title lang="es">Adrenalina</title>
-  </programme>
-  <programme start="20210504210000 -0600" stop="20210504220000 -0600" channel="58">
-    <title lang="es">Chiringuito</title>
-  </programme>
-  <programme start="20210504220000 -0600" stop="20210504230000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210504230000 -0600" stop="20210505000000 -0600" channel="58">
-    <title lang="es">Chiringuito</title>
-  </programme>
-  <programme start="20210505010000 -0600" stop="20210505030000 -0600" channel="58">
-    <title lang="es">Sporting San Jose vs. Alajuelense</title>
-  </programme>
-  <programme start="20210505040000 -0600" stop="20210505060000 -0600" channel="58">
+  <programme start="20210507190000 -0600" stop="20210507210000 -0600" channel="58">
     <title lang="es">Formula E</title>
   </programme>
-  <programme start="20210505070000 -0600" stop="20210505080000 -0600" channel="58">
+  <programme start="20210508010000 -0600" stop="20210508030000 -0600" channel="58">
+    <title lang="es">Santos DG vs. Herediano</title>
+  </programme>
+  <programme start="20210508040000 -0600" stop="20210508060000 -0600" channel="58">
+    <title lang="es">Guadalupe vs. Santos DG</title>
+  </programme>
+  <programme start="20210508060000 -0600" stop="20210508073000 -0600" channel="58">
+    <title lang="es">Entrenando con Leryn</title>
+  </programme>
+  <programme start="20210508073000 -0600" stop="20210508093000 -0600" channel="58">
+    <title lang="es">Formula E</title>
+  </programme>
+  <programme start="20210508093000 -0600" stop="20210508103000 -0600" channel="58">
     <title lang="es">FItness</title>
   </programme>
-  <programme start="20210505110000 -0600" stop="20210505120000 -0600" channel="58">
+  <programme start="20210508103000 -0600" stop="20210508110000 -0600" channel="58">
+    <title lang="es">Entrevista</title>
+  </programme>
+  <programme start="20210508110000 -0600" stop="20210508120000 -0600" channel="58">
     <title lang="es">Monte presenta</title>
   </programme>
-  <programme start="20210505140000 -0600" stop="20210505150000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210505150000 -0600" stop="20210505170000 -0600" channel="58">
-    <title lang="es">Coronado vs. LDA</title>
-  </programme>
-  <programme start="20210505170000 -0600" stop="20210505180000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210505180000 -0600" stop="20210505190000 -0600" channel="58">
+  <programme start="20210508120000 -0600" stop="20210508130000 -0600" channel="58">
     <title lang="es">Futbol por dentro</title>
   </programme>
-  <programme start="20210505190000 -0600" stop="20210505210000 -0600" channel="58">
-    <title lang="es">Sporting San Jose vs. Alajuelense</title>
+  <programme start="20210508130000 -0600" stop="20210508140000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
   </programme>
-  <programme start="20210505220000 -0600" stop="20210505230000 -0600" channel="58">
-    <title lang="es">Futbol por dentro</title>
+  <programme start="20210508140000 -0600" stop="20210508150000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210508150000 -0600" stop="20210508170000 -0600" channel="58">
+    <title lang="es">Formula E</title>
+  </programme>
+  <programme start="20210508170000 -0600" stop="20210508200000 -0600" channel="58">
+    <title lang="es">Boxeo</title>
+  </programme>
+  <programme start="20210508200000 -0600" stop="20210508220000 -0600" channel="58">
+    <title lang="es">MMA XFC</title>
+  </programme>
+  <programme start="20210508220000 -0600" stop="20210508230000 -0600" channel="58">
+    <title lang="es">Monte presenta</title>
   </programme>
 </tv>
