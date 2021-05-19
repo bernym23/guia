@@ -1,9 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.7.2 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="57">
-    <display-name lang="es">Bein Sports</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
   <channel id="58">
     <display-name lang="es">Tigo Sports</display-name>
     <url>http://www.gatotv.com</url>
@@ -20,289 +16,130 @@
     <display-name lang="en">TVN Canal 14</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
-  <programme start="20210515013000 -0600" stop="20210515020000 -0600" channel="57">
-    <title lang="es">Desafío TDN</title>
+  <programme start="20210519010000 -0600" stop="20210519030000 -0600" channel="58">
+    <title lang="es">Sporting San Jose vs. Alajuelense</title>
   </programme>
-  <programme start="20210515020000 -0600" stop="20210515025500 -0600" channel="57">
-    <title lang="es">XFL 2018</title>
-  </programme>
-  <programme start="20210515025500 -0600" stop="20210515035500 -0600" channel="57">
-    <title lang="es">Aventura Extrema 2014</title>
-  </programme>
-  <programme start="20210515035500 -0600" stop="20210515070000 -0600" channel="57">
-    <title lang="es">Corrida de Toros</title>
-  </programme>
-  <programme start="20210515070000 -0600" stop="20210515080000 -0600" channel="57">
-    <title lang="es">Aquí te levantas</title>
-  </programme>
-  <programme start="20210515080000 -0600" stop="20210515090000 -0600" channel="57">
-    <title lang="es">Yoga con Luz</title>
-  </programme>
-  <programme start="20210515090000 -0600" stop="20210515100000 -0600" channel="57">
-    <title lang="es">Ponte fit</title>
-  </programme>
-  <programme start="20210515100000 -0600" stop="20210515110000 -0600" channel="57">
-    <title lang="es">Aventura Extrema 2014</title>
-  </programme>
-  <programme start="20210515110000 -0600" stop="20210515120000 -0600" channel="57">
-    <title lang="es">XFL 2018</title>
-  </programme>
-  <programme start="20210515120000 -0600" stop="20210515142500 -0600" channel="57">
-    <title lang="es">Costa vs. Solorzano</title>
-  </programme>
-  <programme start="20210515142500 -0600" stop="20210515153000 -0600" channel="57">
-    <title lang="es">Aventura Extrema 2015</title>
-  </programme>
-  <programme start="20210515153000 -0600" stop="20210515183500 -0600" channel="57">
-    <title lang="es">Corrida de Toros</title>
-  </programme>
-  <programme start="20210515183500 -0600" stop="20210515193000 -0600" channel="57">
-    <title lang="es">Aventura Extrema 2014</title>
-  </programme>
-  <programme start="20210515193000 -0600" stop="20210515200000 -0600" channel="57">
-    <title lang="es">Desafío TDN</title>
-  </programme>
-  <programme start="20210515200000 -0600" stop="20210515222500 -0600" channel="57">
-    <title lang="es">Cloroformo</title>
-  </programme>
-  <programme start="20210515222500 -0600" stop="20210515232000 -0600" channel="57">
-    <title lang="es">XFL 2018</title>
-  </programme>
-  <programme start="20210515232000 -0600" stop="20210516013500 -0600" channel="57">
-    <title lang="es">Costa vs. Solorzano</title>
-  </programme>
-  <programme start="20210516232000 -0600" stop="20210517013500 -0600" channel="57">
-    <title lang="es">Costa vs. Solorzano</title>
-  </programme>
-  <programme start="20210517013500 -0600" stop="20210517020500 -0600" channel="57">
-    <title lang="es">Desafío TDN</title>
-  </programme>
-  <programme start="20210517020500 -0600" stop="20210517030000 -0600" channel="57">
-    <title lang="es">XFL 2018</title>
-  </programme>
-  <programme start="20210517030000 -0600" stop="20210517035500 -0600" channel="57">
-    <title lang="es">Aventura Extrema 2015</title>
-  </programme>
-  <programme start="20210517035500 -0600" stop="20210517074000 -0600" channel="57">
-    <title lang="es">Corrida de Toros</title>
-  </programme>
-  <programme start="20210517074000 -0600" stop="20210517080000 -0600" channel="57">
-    <title lang="es">Desafío TDN</title>
-  </programme>
-  <programme start="20210517100000 -0600" stop="20210517105500 -0600" channel="57">
-    <title lang="es">Aventura Extrema 2015</title>
-  </programme>
-  <programme start="20210517105500 -0600" stop="20210517115000 -0600" channel="57">
-    <title lang="es">XFL 2018</title>
-  </programme>
-  <programme start="20210517115000 -0600" stop="20210517140500 -0600" channel="57">
-    <title lang="es">Costa vs. Solorzano</title>
-  </programme>
-  <programme start="20210517140500 -0600" stop="20210517150000 -0600" channel="57">
-    <title lang="es">Aventura Extrema 2015</title>
-  </programme>
-  <programme start="20210517150000 -0600" stop="20210517153000 -0600" channel="57">
-    <title lang="es">Gran Fondo NY 3 Cozumel Repetición</title>
-  </programme>
-  <programme start="20210517153000 -0600" stop="20210517183000 -0600" channel="57">
-    <title lang="es">Corrida de Toros</title>
-  </programme>
-  <programme start="20210517183000 -0600" stop="20210517193000 -0600" channel="57">
-    <title lang="es">Aventura Extrema 2015</title>
-  </programme>
-  <programme start="20210517193000 -0600" stop="20210517200000 -0600" channel="57">
-    <title lang="es">Desafío TDN</title>
-  </programme>
-  <programme start="20210517200000 -0600" stop="20210517224500 -0600" channel="57">
-    <title lang="es">Cloroformo</title>
-  </programme>
-  <programme start="20210517224500 -0600" stop="20210517234000 -0600" channel="57">
-    <title lang="es">XFL 2018</title>
-  </programme>
-  <programme start="20210517234000 -0600" stop="20210518003500 -0600" channel="57">
-    <title lang="es">Aventura Extrema 2014</title>
-  </programme>
-  <programme start="20210518003500 -0600" stop="20210518025500 -0600" channel="57">
-    <title lang="es">Costa vs. Solorzano</title>
-  </programme>
-  <programme start="20210518025500 -0600" stop="20210518034500 -0600" channel="57">
-    <title lang="es">Cloroformo</title>
-  </programme>
-  <programme start="20210518034500 -0600" stop="20210518044000 -0600" channel="57">
-    <title lang="es">XFL 2018</title>
-  </programme>
-  <programme start="20210518044000 -0600" stop="20210518050500 -0600" channel="57">
-    <title lang="es">Desafío TDN</title>
-  </programme>
-  <programme start="20210518050500 -0600" stop="20210518060500 -0600" channel="57">
-    <title lang="es">Aquí te levantas</title>
-  </programme>
-  <programme start="20210518060500 -0600" stop="20210518070500 -0600" channel="57">
-    <title lang="es">Yoga con Luz</title>
-  </programme>
-  <programme start="20210518070500 -0600" stop="20210518080500 -0600" channel="57">
-    <title lang="es">Ponte fit</title>
-  </programme>
-  <programme start="20210518080500 -0600" stop="20210518090000 -0600" channel="57">
-    <title lang="es">XFL 2018</title>
-  </programme>
-  <programme start="20210518090000 -0600" stop="20210518112500 -0600" channel="57">
-    <title lang="es">Costa vs. Solorzano</title>
-  </programme>
-  <programme start="20210518112500 -0600" stop="20210518122500 -0600" channel="57">
-    <title lang="es">Yoga con Luz</title>
-  </programme>
-  <programme start="20210518122500 -0600" stop="20210518130500 -0600" channel="57">
-    <title lang="es">Aventura Extrema 2016</title>
-  </programme>
-  <programme start="20210518130500 -0600" stop="20210518133000 -0600" channel="57">
-    <title lang="es">Desafío TDN</title>
-  </programme>
-  <programme start="20210518133000 -0600" stop="20210518163000 -0600" channel="57">
-    <title lang="es">Corrida de Toros</title>
-  </programme>
-  <programme start="20210518163000 -0600" stop="20210518173000 -0600" channel="57">
-    <title lang="es">Ponte fit</title>
-  </programme>
-  <programme start="20210518173000 -0600" stop="20210518190500 -0600" channel="57">
-    <title lang="es">Polo Reyes vs. Ricardo Arreola</title>
-  </programme>
-  <programme start="20210518190500 -0600" stop="20210518195000 -0600" channel="57">
-    <title lang="es">De la Torre vs. Cossio Repetición</title>
-  </programme>
-  <programme start="20210518195000 -0600" stop="20210518202000 -0600" channel="57">
-    <title lang="es">Desafío TDN</title>
-  </programme>
-  <programme start="20210518202000 -0600" stop="20210518211500 -0600" channel="57">
-    <title lang="es">Cloroformo</title>
-  </programme>
-  <programme start="20210518211500 -0600" stop="20210518221000 -0600" channel="57">
-    <title lang="es">XFL 2018</title>
-  </programme>
-  <programme start="20210518221000 -0600" stop="20210518230500 -0600" channel="57">
-    <title lang="es">Aventura Extrema 2014</title>
-  </programme>
-  <programme start="20210518230500 -0600" stop="20210518233500 -0600" channel="57">
-    <title lang="es">Desafío TDN</title>
-  </programme>
-  <programme start="20210518233500 -0600" stop="20210519011000 -0600" channel="57">
-    <title lang="es">Polo Reyes vs. Ricardo Arreola</title>
-  </programme>
-  <programme start="20210515010000 -0600" stop="20210515030000 -0600" channel="58">
-    <title lang="es">ADR Jicaral vs. Cartaginés</title>
-  </programme>
-  <programme start="20210515030000 -0600" stop="20210515040000 -0600" channel="58">
+  <programme start="20210519030000 -0600" stop="20210519040000 -0600" channel="58">
     <title lang="es">Noticiero Tigo Sports</title>
   </programme>
-  <programme start="20210515040000 -0600" stop="20210515060000 -0600" channel="58">
-    <title lang="es">San Carlos vs. Saprissa</title>
-  </programme>
-  <programme start="20210515060000 -0600" stop="20210515070000 -0600" channel="58">
-    <title lang="es">Entrenando con Leryn</title>
-  </programme>
-  <programme start="20210515070000 -0600" stop="20210515080000 -0600" channel="58">
-    <title lang="es">FItness</title>
-  </programme>
-  <programme start="20210515080000 -0600" stop="20210515103000 -0600" channel="58">
-    <title lang="es">Formula E</title>
-  </programme>
-  <programme start="20210515103000 -0600" stop="20210515110000 -0600" channel="58">
-    <title lang="es">Entrevista</title>
-  </programme>
-  <programme start="20210515110000 -0600" stop="20210515120000 -0600" channel="58">
-    <title lang="es">Monte presenta</title>
-  </programme>
-  <programme start="20210515120000 -0600" stop="20210515130000 -0600" channel="58">
-    <title lang="es">Futbol por dentro</title>
-  </programme>
-  <programme start="20210515130000 -0600" stop="20210515140000 -0600" channel="58">
-    <title lang="es">Chiringuito</title>
-  </programme>
-  <programme start="20210515140000 -0600" stop="20210515150000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210515150000 -0600" stop="20210515170000 -0600" channel="58">
-    <title lang="es">Formula E</title>
-  </programme>
-  <programme start="20210515170000 -0600" stop="20210515173000 -0600" channel="58">
-    <title lang="es">Velocidad bajo control</title>
-  </programme>
-  <programme start="20210515173000 -0600" stop="20210515180000 -0600" channel="58">
-    <title lang="es">Especial - Hanna Gabriels</title>
-  </programme>
-  <programme start="20210515180000 -0600" stop="20210515200000 -0600" channel="58">
+  <programme start="20210519040000 -0600" stop="20210519060000 -0600" channel="58">
     <title lang="es">MMA XFC</title>
   </programme>
-  <programme start="20210515200000 -0600" stop="20210515210000 -0600" channel="58">
-    <title lang="es">Monte presenta</title>
+  <programme start="20210519060000 -0600" stop="20210519070000 -0600" channel="58">
+    <title lang="es">Entrenando con Leryn</title>
   </programme>
-  <programme start="20210515210000 -0600" stop="20210515220000 -0600" channel="58">
-    <title lang="es">Casual con Tavo López</title>
+  <programme start="20210519070000 -0600" stop="20210519080000 -0600" channel="58">
+    <title lang="es">FItness</title>
   </programme>
-  <programme start="20210515220000 -0600" stop="20210515230000 -0600" channel="58">
+  <programme start="20210519080000 -0600" stop="20210519090000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210519090000 -0600" stop="20210519100000 -0600" channel="58">
     <title lang="es">Chiringuito</title>
   </programme>
-  <programme start="20210515230000 -0600" stop="20210516000000 -0600" channel="58">
+  <programme start="20210519100000 -0600" stop="20210519110000 -0600" channel="58">
+    <title lang="es">FItness</title>
+  </programme>
+  <programme start="20210519110000 -0600" stop="20210519120000 -0600" channel="58">
+    <title lang="es">Monte presenta</title>
+  </programme>
+  <programme start="20210519120000 -0600" stop="20210519130000 -0600" channel="58">
     <title lang="es">Futbol por dentro</title>
   </programme>
-  <programme start="20210516010000 -0600" stop="20210516030000 -0600" channel="58">
-    <title lang="es">Santos DG vs. Grecia</title>
+  <programme start="20210519130000 -0600" stop="20210519150000 -0600" channel="58">
+    <title lang="es">Atalanta vs. Juventus</title>
   </programme>
-  <programme start="20210516040000 -0600" stop="20210516060000 -0600" channel="58">
-    <title lang="es">ADR Jicaral vs. Cartaginés</title>
-  </programme>
-  <programme start="20210516080000 -0600" stop="20210516090000 -0600" channel="58">
-    <title lang="es">Tigo Sports AM</title>
-  </programme>
-  <programme start="20210516090000 -0600" stop="20210516110000 -0600" channel="58">
+  <programme start="20210519150000 -0600" stop="20210519170000 -0600" channel="58">
     <title lang="es">Formula E</title>
   </programme>
-  <programme start="20210516110000 -0600" stop="20210516113000 -0600" channel="58">
-    <title lang="es">TV Golf</title>
+  <programme start="20210519170000 -0600" stop="20210519180000 -0600" channel="58">
+    <title lang="es">Casual con Tavo López</title>
   </programme>
-  <programme start="20210516113000 -0600" stop="20210516120000 -0600" channel="58">
-    <title lang="es">Corazon de la Peninsula</title>
-  </programme>
-  <programme start="20210516120000 -0600" stop="20210516130000 -0600" channel="58">
-    <title lang="es">Nación Centroamérica</title>
-  </programme>
-  <programme start="20210516130000 -0600" stop="20210516150000 -0600" channel="58">
-    <title lang="es">San Carlos vs. Saprissa</title>
-  </programme>
-  <programme start="20210516150000 -0600" stop="20210516170000 -0600" channel="58">
-    <title lang="es">ADR Jicaral vs. Cartaginés</title>
-  </programme>
-  <programme start="20210516170000 -0600" stop="20210516190000 -0600" channel="58">
-    <title lang="es">Santos DG vs. Grecia</title>
-  </programme>
-  <programme start="20210516190000 -0600" stop="20210516193000 -0600" channel="58">
-    <title lang="es">Velocidad bajo control</title>
-  </programme>
-  <programme start="20210516193000 -0600" stop="20210516200000 -0600" channel="58">
+  <programme start="20210519180000 -0600" stop="20210519183000 -0600" channel="58">
     <title lang="es">Especial - Hanna Gabriels</title>
   </programme>
-  <programme start="20210516200000 -0600" stop="20210516203000 -0600" channel="58">
+  <programme start="20210519183000 -0600" stop="20210519190000 -0600" channel="58">
+    <title lang="es">Velocidad bajo control</title>
+  </programme>
+  <programme start="20210519190000 -0600" stop="20210519193000 -0600" channel="58">
     <title lang="es">Corazon de la Peninsula</title>
   </programme>
-  <programme start="20210516203000 -0600" stop="20210516210000 -0600" channel="58">
-    <title lang="es">Adrenalina</title>
-  </programme>
-  <programme start="20210516210000 -0600" stop="20210516220000 -0600" channel="58">
-    <title lang="es">Chiringuito</title>
-  </programme>
-  <programme start="20210516220000 -0600" stop="20210516230000 -0600" channel="58">
-    <title lang="es">Monte presenta</title>
-  </programme>
-  <programme start="20210516230000 -0600" stop="20210516233000 -0600" channel="58">
+  <programme start="20210519193000 -0600" stop="20210519200000 -0600" channel="58">
     <title lang="es">Entrevista</title>
   </programme>
-  <programme start="20210516233000 -0600" stop="20210517000000 -0600" channel="58">
-    <title lang="es">TV Golf</title>
+  <programme start="20210519200000 -0600" stop="20210519210000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
   </programme>
-  <programme start="20210517000000 -0600" stop="20210517120000 -0600" channel="58">
-    <title lang="es">Tigo Sports</title>
+  <programme start="20210519210000 -0600" stop="20210519220000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
   </programme>
-  <programme start="20210517120000 -0600" stop="20210518000000 -0600" channel="58">
-    <title lang="es">Tigo Sports</title>
+  <programme start="20210519220000 -0600" stop="20210519230000 -0600" channel="58">
+    <title lang="es">Casual con Tavo López</title>
+  </programme>
+  <programme start="20210519230000 -0600" stop="20210519233000 -0600" channel="58">
+    <title lang="es">Post - Primera División de Costa Rica</title>
+  </programme>
+  <programme start="20210519233000 -0600" stop="20210520000000 -0600" channel="58">
+    <title lang="es">Especial - Hanna Gabriels</title>
+  </programme>
+  <programme start="20210520010000 -0600" stop="20210520030000 -0600" channel="58">
+    <title lang="es">Guadalupe vs. ADR Jicaral</title>
+  </programme>
+  <programme start="20210520040000 -0600" stop="20210520060000 -0600" channel="58">
+    <title lang="es">Formula E</title>
+  </programme>
+  <programme start="20210520080000 -0600" stop="20210520090000 -0600" channel="58">
+    <title lang="es">Tigo Sports AM</title>
+  </programme>
+  <programme start="20210520110000 -0600" stop="20210520120000 -0600" channel="58">
+    <title lang="es">Tigo Sports AM</title>
+  </programme>
+  <programme start="20210520130000 -0600" stop="20210520140000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
+  </programme>
+  <programme start="20210520140000 -0600" stop="20210520150000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210520150000 -0600" stop="20210520170000 -0600" channel="58">
+    <title lang="es">Atalanta vs. Juventus</title>
+  </programme>
+  <programme start="20210520170000 -0600" stop="20210520180000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210520180000 -0600" stop="20210520183000 -0600" channel="58">
+    <title lang="es">Fanatikos</title>
+  </programme>
+  <programme start="20210520183000 -0600" stop="20210520190000 -0600" channel="58">
+    <title lang="es">Fanatikos</title>
+  </programme>
+  <programme start="20210520190000 -0600" stop="20210520200000 -0600" channel="58">
+    <title lang="es">Monte presenta</title>
+  </programme>
+  <programme start="20210520200000 -0600" stop="20210521000000 -0600" channel="58">
+    <title lang="es">eSports</title>
+  </programme>
+  <programme start="20210521010000 -0600" stop="20210521030000 -0600" channel="58">
+    <title lang="es">San Carlos vs. Saprissa</title>
+  </programme>
+  <programme start="20210521040000 -0600" stop="20210521060000 -0600" channel="58">
+    <title lang="es">Atalanta vs. Juventus</title>
+  </programme>
+  <programme start="20210521150000 -0600" stop="20210521170000 -0600" channel="58">
+    <title lang="es">Santos vs. Herediano</title>
+  </programme>
+  <programme start="20210521180000 -0600" stop="20210521183000 -0600" channel="58">
+    <title lang="es">Velocidad bajo control</title>
+  </programme>
+  <programme start="20210521183000 -0600" stop="20210521190000 -0600" channel="58">
+    <title lang="es">Especial - Hanna Gabriels</title>
+  </programme>
+  <programme start="20210521190000 -0600" stop="20210521210000 -0600" channel="58">
+    <title lang="es">Santos vs. Herediano</title>
+  </programme>
+  <programme start="20210521210000 -0600" stop="20210521220000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
+  </programme>
+  <programme start="20210521220000 -0600" stop="20210522000000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
   </programme>
 </tv>
