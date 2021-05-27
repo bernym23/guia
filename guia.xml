@@ -16,70 +16,112 @@
     <display-name lang="en">TVN Canal 14</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
-  <programme start="20210523010000 -0600" stop="20210523040000 -0600" channel="58">
-    <title lang="es">Boxeo</title>
+  <programme start="20210526010000 -0600" stop="20210526030000 -0600" channel="58">
+    <title lang="es">Sporting vs. LDA</title>
   </programme>
-  <programme start="20210523040000 -0600" stop="20210523060000 -0600" channel="58">
-    <title lang="es">Atalanta vs. Juventus</title>
+  <programme start="20210526030000 -0600" stop="20210526040000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
   </programme>
-  <programme start="20210523060000 -0600" stop="20210523070000 -0600" channel="58">
-    <title lang="es">Entrenando con Leryn</title>
-  </programme>
-  <programme start="20210523070000 -0600" stop="20210523080000 -0600" channel="58">
-    <title lang="es">FItness</title>
-  </programme>
-  <programme start="20210523080000 -0600" stop="20210523090000 -0600" channel="58">
-    <title lang="es">Tigo Sports AM</title>
-  </programme>
-  <programme start="20210523090000 -0600" stop="20210523110000 -0600" channel="58">
-    <title lang="es">Formula E</title>
-  </programme>
-  <programme start="20210523110000 -0600" stop="20210523113000 -0600" channel="58">
-    <title lang="es">TV Golf</title>
-  </programme>
-  <programme start="20210523113000 -0600" stop="20210523120000 -0600" channel="58">
-    <title lang="es">Corazon de la Peninsula</title>
-  </programme>
-  <programme start="20210523120000 -0600" stop="20210523130000 -0600" channel="58">
-    <title lang="es">Nación Centroamérica</title>
-  </programme>
-  <programme start="20210523130000 -0600" stop="20210523150000 -0600" channel="58">
-    <title lang="es">Santos vs. Herediano</title>
-  </programme>
-  <programme start="20210523150000 -0600" stop="20210523170000 -0600" channel="58">
-    <title lang="es">Atalanta vs. Juventus</title>
-  </programme>
-  <programme start="20210523170000 -0600" stop="20210523190000 -0600" channel="58">
+  <programme start="20210526040000 -0600" stop="20210526060000 -0600" channel="58">
     <title lang="es">MMA XFC</title>
   </programme>
-  <programme start="20210523190000 -0600" stop="20210523193000 -0600" channel="58">
-    <title lang="es">Entrevista</title>
+  <programme start="20210526060000 -0600" stop="20210526070000 -0600" channel="58">
+    <title lang="es">Entrenando con Leryn</title>
   </programme>
-  <programme start="20210523193000 -0600" stop="20210523200000 -0600" channel="58">
-    <title lang="es">Especial - Hanna Gabriels</title>
+  <programme start="20210526070000 -0600" stop="20210526080000 -0600" channel="58">
+    <title lang="es">FItness</title>
   </programme>
-  <programme start="20210523200000 -0600" stop="20210523203000 -0600" channel="58">
-    <title lang="es">Corazon de la Peninsula</title>
+  <programme start="20210526080000 -0600" stop="20210526090000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
   </programme>
-  <programme start="20210523203000 -0600" stop="20210523210000 -0600" channel="58">
-    <title lang="es">Adrenalina</title>
-  </programme>
-  <programme start="20210523210000 -0600" stop="20210523220000 -0600" channel="58">
+  <programme start="20210526090000 -0600" stop="20210526100000 -0600" channel="58">
     <title lang="es">Chiringuito</title>
   </programme>
-  <programme start="20210523220000 -0600" stop="20210523230000 -0600" channel="58">
+  <programme start="20210526100000 -0600" stop="20210526110000 -0600" channel="58">
+    <title lang="es">FItness</title>
+  </programme>
+  <programme start="20210526110000 -0600" stop="20210526120000 -0600" channel="58">
     <title lang="es">Monte presenta</title>
   </programme>
-  <programme start="20210523230000 -0600" stop="20210523233000 -0600" channel="58">
+  <programme start="20210526120000 -0600" stop="20210526130000 -0600" channel="58">
+    <title lang="es">Futbol por dentro</title>
+  </programme>
+  <programme start="20210526130000 -0600" stop="20210526140000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
+  </programme>
+  <programme start="20210526140000 -0600" stop="20210526150000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210526150000 -0600" stop="20210526170000 -0600" channel="58">
+    <title lang="es">Sporting vs. Limón</title>
+  </programme>
+  <programme start="20210526170000 -0600" stop="20210526180000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210526180000 -0600" stop="20210526183000 -0600" channel="58">
+    <title lang="es">Especial - Hanna Gabriels</title>
+  </programme>
+  <programme start="20210526183000 -0600" stop="20210526190000 -0600" channel="58">
+    <title lang="es">Velocidad bajo control</title>
+  </programme>
+  <programme start="20210526190000 -0600" stop="20210526193000 -0600" channel="58">
+    <title lang="es">Corazon de la Peninsula</title>
+  </programme>
+  <programme start="20210526193000 -0600" stop="20210526200000 -0600" channel="58">
     <title lang="es">Entrevista</title>
   </programme>
-  <programme start="20210523233000 -0600" stop="20210524000000 -0600" channel="58">
-    <title lang="es">TV Golf</title>
+  <programme start="20210526200000 -0600" stop="20210526210000 -0600" channel="58">
+    <title lang="es">Casual con Tavo López</title>
   </programme>
-  <programme start="20210524000000 -0600" stop="20210524120000 -0600" channel="58">
+  <programme start="20210526210000 -0600" stop="20210526220000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
+  </programme>
+  <programme start="20210526220000 -0600" stop="20210526230000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210526230000 -0600" stop="20210527000000 -0600" channel="58">
+    <title lang="es">Futbol por dentro</title>
+  </programme>
+  <programme start="20210527010000 -0600" stop="20210527030000 -0600" channel="58">
+    <title lang="es">Guadalupe vs. Jicaral</title>
+  </programme>
+  <programme start="20210527040000 -0600" stop="20210527060000 -0600" channel="58">
+    <title lang="es">Formula E</title>
+  </programme>
+  <programme start="20210527080000 -0600" stop="20210527090000 -0600" channel="58">
+    <title lang="es">Tigo Sports AM</title>
+  </programme>
+  <programme start="20210527110000 -0600" stop="20210527120000 -0600" channel="58">
+    <title lang="es">Tigo Sports AM</title>
+  </programme>
+  <programme start="20210527150000 -0600" stop="20210527170000 -0600" channel="58">
+    <title lang="es">Atalanta vs. Juventus</title>
+  </programme>
+  <programme start="20210527180000 -0600" stop="20210527183000 -0600" channel="58">
+    <title lang="es">Fanatikos</title>
+  </programme>
+  <programme start="20210527183000 -0600" stop="20210527190000 -0600" channel="58">
+    <title lang="es">Fanatikos</title>
+  </programme>
+  <programme start="20210527190000 -0600" stop="20210527200000 -0600" channel="58">
+    <title lang="es">Casual con Tavo López</title>
+  </programme>
+  <programme start="20210527200000 -0600" stop="20210527210000 -0600" channel="58">
+    <title lang="es">Monte presenta</title>
+  </programme>
+  <programme start="20210527210000 -0600" stop="20210527220000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
+  </programme>
+  <programme start="20210527220000 -0600" stop="20210527230000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210527230000 -0600" stop="20210528000000 -0600" channel="58">
+    <title lang="es">Futbol por dentro</title>
+  </programme>
+  <programme start="20210528000000 -0600" stop="20210528120000 -0600" channel="58">
     <title lang="es">Tigo Sports</title>
   </programme>
-  <programme start="20210524120000 -0600" stop="20210525000000 -0600" channel="58">
+  <programme start="20210528120000 -0600" stop="20210529000000 -0600" channel="58">
     <title lang="es">Tigo Sports</title>
   </programme>
 </tv>
