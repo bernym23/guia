@@ -79,9 +79,6 @@
   <programme start="20210601220000 -0600" stop="20210602000000 -0600" channel="58">
     <title lang="es">Noticiero Tigo Sports</title>
   </programme>
-  <programme start="20210602000000 -0600" stop="20210602010000 -0600" channel="58">
-    <title lang="es">El chiringuito</title>
-  </programme>
   <programme start="20210602010000 -0600" stop="20210602030000 -0600" channel="58">
     <title lang="es">MMA XFC</title>
   </programme>
