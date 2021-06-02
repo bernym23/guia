@@ -16,74 +16,29 @@
     <display-name lang="en">TVN Canal 14</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
-  <programme start="20210601010000 -0600" stop="20210601030000 -0600" channel="58">
-    <title lang="es">Formula E</title>
-  </programme>
-  <programme start="20210601030000 -0600" stop="20210601040000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210601040000 -0600" stop="20210601060000 -0600" channel="58">
-    <title lang="es">MMA XFC</title>
-  </programme>
-  <programme start="20210601060000 -0600" stop="20210601070000 -0600" channel="58">
-    <title lang="es">Entrenando con Leryn</title>
-  </programme>
-  <programme start="20210601070000 -0600" stop="20210601080000 -0600" channel="58">
-    <title lang="es">FItness</title>
-  </programme>
-  <programme start="20210601080000 -0600" stop="20210601090000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210601090000 -0600" stop="20210601100000 -0600" channel="58">
-    <title lang="es">Chiringuito</title>
-  </programme>
-  <programme start="20210601100000 -0600" stop="20210601110000 -0600" channel="58">
-    <title lang="es">FItness</title>
-  </programme>
-  <programme start="20210601110000 -0600" stop="20210601113000 -0600" channel="58">
-    <title lang="es">Fanatikos</title>
-  </programme>
-  <programme start="20210601113000 -0600" stop="20210601120000 -0600" channel="58">
-    <title lang="es">Especial - Hanna Gabriels</title>
-  </programme>
-  <programme start="20210601120000 -0600" stop="20210601130000 -0600" channel="58">
-    <title lang="es">Futbol por dentro</title>
-  </programme>
-  <programme start="20210601130000 -0600" stop="20210601140000 -0600" channel="58">
-    <title lang="es">Chiringuito</title>
-  </programme>
-  <programme start="20210601140000 -0600" stop="20210601150000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210601150000 -0600" stop="20210601170000 -0600" channel="58">
-    <title lang="es">Sporting vs. Limón</title>
-  </programme>
-  <programme start="20210601170000 -0600" stop="20210601180000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210601180000 -0600" stop="20210601190000 -0600" channel="58">
-    <title lang="es">Monte presenta</title>
-  </programme>
-  <programme start="20210601190000 -0600" stop="20210601193000 -0600" channel="58">
-    <title lang="es">Adrenalina</title>
-  </programme>
-  <programme start="20210601193000 -0600" stop="20210601200000 -0600" channel="58">
-    <title lang="es">Adrenalina</title>
-  </programme>
-  <programme start="20210601200000 -0600" stop="20210601210000 -0600" channel="58">
-    <title lang="es">Casual con Tavo López</title>
-  </programme>
-  <programme start="20210601210000 -0600" stop="20210601220000 -0600" channel="58">
-    <title lang="es">Chiringuito</title>
-  </programme>
-  <programme start="20210601220000 -0600" stop="20210602000000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
   <programme start="20210602010000 -0600" stop="20210602030000 -0600" channel="58">
     <title lang="es">MMA XFC</title>
   </programme>
+  <programme start="20210602030000 -0600" stop="20210602040000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
   <programme start="20210602040000 -0600" stop="20210602060000 -0600" channel="58">
     <title lang="es">Luchas Grecoromano</title>
+  </programme>
+  <programme start="20210602060000 -0600" stop="20210602070000 -0600" channel="58">
+    <title lang="es">Entrenando con Leryn</title>
+  </programme>
+  <programme start="20210602070000 -0600" stop="20210602080000 -0600" channel="58">
+    <title lang="es">FItness</title>
+  </programme>
+  <programme start="20210602080000 -0600" stop="20210602090000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210602090000 -0600" stop="20210602100000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
+  </programme>
+  <programme start="20210602100000 -0600" stop="20210602110000 -0600" channel="58">
+    <title lang="es">FItness</title>
   </programme>
   <programme start="20210602110000 -0600" stop="20210602120000 -0600" channel="58">
     <title lang="es">Monte presenta</title>
@@ -115,6 +70,18 @@
   <programme start="20210602193000 -0600" stop="20210602200000 -0600" channel="58">
     <title lang="es">Entrevista</title>
   </programme>
+  <programme start="20210602200000 -0600" stop="20210602210000 -0600" channel="58">
+    <title lang="es">Casual con Tavo López</title>
+  </programme>
+  <programme start="20210602210000 -0600" stop="20210602220000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
+  </programme>
+  <programme start="20210602220000 -0600" stop="20210603000000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210603000000 -0600" stop="20210603010000 -0600" channel="58">
+    <title lang="es">El chiringuito</title>
+  </programme>
   <programme start="20210603010000 -0600" stop="20210603030000 -0600" channel="58">
     <title lang="es">Luchas Grecoromano</title>
   </programme>
@@ -145,5 +112,11 @@
   </programme>
   <programme start="20210603220000 -0600" stop="20210604000000 -0600" channel="58">
     <title lang="es">Post del Juego</title>
+  </programme>
+  <programme start="20210604000000 -0600" stop="20210604120000 -0600" channel="58">
+    <title lang="es">Tigo Sports</title>
+  </programme>
+  <programme start="20210604120000 -0600" stop="20210605000000 -0600" channel="58">
+    <title lang="es">Tigo Sports</title>
   </programme>
 </tv>
