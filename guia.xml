@@ -16,65 +16,10 @@
     <display-name lang="en">TVN Canal 14</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
-  <programme start="20210606010000 -0600" stop="20210606040000 -0600" channel="58">
-    <title lang="es">Boxeo Hanna Grabriel</title>
-  </programme>
-  <programme start="20210606040000 -0600" stop="20210606060000 -0600" channel="58">
-    <title lang="es">Atalanta vs. Juventus</title>
-  </programme>
-  <programme start="20210606060000 -0600" stop="20210606070000 -0600" channel="58">
-    <title lang="es">Entrenando con Leryn</title>
-  </programme>
-  <programme start="20210606070000 -0600" stop="20210606080000 -0600" channel="58">
-    <title lang="es">FItness</title>
-  </programme>
-  <programme start="20210606080000 -0600" stop="20210606090000 -0600" channel="58">
-    <title lang="es">Casual con Tavo López</title>
-  </programme>
-  <programme start="20210606090000 -0600" stop="20210606110000 -0600" channel="58">
-    <title lang="es">Estados Unidos vs. Honduras</title>
-    <desc lang="es">La selección estadounidense se enfrenta a la selección hondureña en un partido entre ambas naciones.(n)</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/estados_unidos_vs_honduras.png" />
-  </programme>
-  <programme start="20210606110000 -0600" stop="20210606113000 -0600" channel="58">
-    <title lang="es">TV Golf</title>
-  </programme>
-  <programme start="20210606113000 -0600" stop="20210606120000 -0600" channel="58">
-    <title lang="es">Corazon de la Peninsula</title>
-  </programme>
-  <programme start="20210606120000 -0600" stop="20210606130000 -0600" channel="58">
-    <title lang="es">Nación Centroamérica</title>
-  </programme>
-  <programme start="20210606130000 -0600" stop="20210606150000 -0600" channel="58">
-    <title lang="es">México vs. Costa Rica</title>
-    <desc lang="es">La selección de México recibe a la de Costa Rica en el estadio Azteca desde la ciudad de México.(n)</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/mexico_vs_costa_rica.png" />
-  </programme>
-  <programme start="20210606150000 -0600" stop="20210606153000 -0600" channel="58">
-    <title lang="es">Fanatikos</title>
-  </programme>
-  <programme start="20210606153000 -0600" stop="20210606190000 -0600" channel="58">
-    <title lang="es">Final Four</title>
-  </programme>
-  <programme start="20210606190000 -0600" stop="20210606213000 -0600" channel="58">
-    <title lang="es">Final Four</title>
-  </programme>
-  <programme start="20210606213000 -0600" stop="20210606220000 -0600" channel="58">
-    <title lang="es">Post Final Four</title>
-  </programme>
-  <programme start="20210606220000 -0600" stop="20210606230000 -0600" channel="58">
-    <title lang="es">Chiringuito</title>
-  </programme>
-  <programme start="20210606230000 -0600" stop="20210606233000 -0600" channel="58">
-    <title lang="es">Entrevista</title>
-  </programme>
-  <programme start="20210606233000 -0600" stop="20210607000000 -0600" channel="58">
-    <title lang="es">TV Golf</title>
-  </programme>
-  <programme start="20210607000000 -0600" stop="20210607120000 -0600" channel="58">
+  <programme start="20210607120000 -0600" stop="20210608000000 -0600" channel="58">
     <title lang="es">Tigo Sports</title>
   </programme>
-  <programme start="20210607120000 -0600" stop="20210608000000 -0600" channel="58">
+  <programme start="20210608000000 -0600" stop="20210608120000 -0600" channel="58">
     <title lang="es">Tigo Sports</title>
   </programme>
 </tv>
