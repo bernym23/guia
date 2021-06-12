@@ -16,104 +16,6 @@
     <display-name lang="en">TVN Canal 14</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
-  <programme start="20210609010000 -0600" stop="20210609030000 -0600" channel="58">
-    <title lang="es">XFC</title>
-  </programme>
-  <programme start="20210609030000 -0600" stop="20210609040000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210609040000 -0600" stop="20210609060000 -0600" channel="58">
-    <title lang="es">Luchas Grecoromano</title>
-  </programme>
-  <programme start="20210609060000 -0600" stop="20210609070000 -0600" channel="58">
-    <title lang="es">Entrenando con Leryn</title>
-  </programme>
-  <programme start="20210609070000 -0600" stop="20210609080000 -0600" channel="58">
-    <title lang="es">FItness</title>
-  </programme>
-  <programme start="20210609080000 -0600" stop="20210609090000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210609090000 -0600" stop="20210609100000 -0600" channel="58">
-    <title lang="es">El chiringuito de Jugones</title>
-  </programme>
-  <programme start="20210609100000 -0600" stop="20210609110000 -0600" channel="58">
-    <title lang="es">FItness</title>
-  </programme>
-  <programme start="20210609110000 -0600" stop="20210609120000 -0600" channel="58">
-    <title lang="es">Casual con Tavo López</title>
-  </programme>
-  <programme start="20210609120000 -0600" stop="20210609130000 -0600" channel="58">
-    <title lang="es">Futbol por dentro</title>
-  </programme>
-  <programme start="20210609130000 -0600" stop="20210609140000 -0600" channel="58">
-    <title lang="es">El chiringuito de Jugones</title>
-  </programme>
-  <programme start="20210609140000 -0600" stop="20210609150000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210609150000 -0600" stop="20210609170000 -0600" channel="58">
-    <title lang="es">Luchas Grecoromano</title>
-  </programme>
-  <programme start="20210609170000 -0600" stop="20210609180000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210609180000 -0600" stop="20210609183000 -0600" channel="58">
-    <title lang="es">Especial - Hanna Gabriels</title>
-  </programme>
-  <programme start="20210609183000 -0600" stop="20210609190000 -0600" channel="58">
-    <title lang="es">Carrera a Tokio</title>
-  </programme>
-  <programme start="20210609190000 -0600" stop="20210609193000 -0600" channel="58">
-    <title lang="es">Corazon de la Peninsula</title>
-  </programme>
-  <programme start="20210609193000 -0600" stop="20210609200000 -0600" channel="58">
-    <title lang="es">Entrevista</title>
-  </programme>
-  <programme start="20210609200000 -0600" stop="20210609210000 -0600" channel="58">
-    <title lang="es">Casual con Tavo López</title>
-  </programme>
-  <programme start="20210609210000 -0600" stop="20210609220000 -0600" channel="58">
-    <title lang="es">El chiringuito de Jugones</title>
-  </programme>
-  <programme start="20210609220000 -0600" stop="20210609230000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210609230000 -0600" stop="20210610000000 -0600" channel="58">
-    <title lang="es">Futbol por dentro</title>
-  </programme>
-  <programme start="20210610010000 -0600" stop="20210610030000 -0600" channel="58">
-    <title lang="es">Luchas Grecoromano</title>
-  </programme>
-  <programme start="20210610030000 -0600" stop="20210610040000 -0600" channel="58">
-    <title lang="es">Tigo Sports Noticias</title>
-  </programme>
-  <programme start="20210610040000 -0600" stop="20210610060000 -0600" channel="58">
-    <title lang="es">Formula E</title>
-  </programme>
-  <programme start="20210610070000 -0600" stop="20210610080000 -0600" channel="58">
-    <title lang="es">FItness</title>
-  </programme>
-  <programme start="20210610080000 -0600" stop="20210610090000 -0600" channel="58">
-    <title lang="es">Tigo Sports AM</title>
-  </programme>
-  <programme start="20210610110000 -0600" stop="20210610120000 -0600" channel="58">
-    <title lang="es">Tigo Sports AM</title>
-  </programme>
-  <programme start="20210610140000 -0600" stop="20210610170000 -0600" channel="58">
-    <title lang="es">Estados Unidos Vs. México</title>
-    <desc lang="es">La selección de los Estados Unidos de América recibe a México en un enfrentamiento deportivo.(n)</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/estados_unidos_vs_mexico.png" />
-  </programme>
-  <programme start="20210610170000 -0600" stop="20210610180000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210610180000 -0600" stop="20210610200000 -0600" channel="58">
-    <title lang="es">Costa Rica vs. Honduras</title>
-  </programme>
-  <programme start="20210610200000 -0600" stop="20210610210000 -0600" channel="58">
-    <title lang="es">Monte presenta</title>
-  </programme>
   <programme start="20210611010000 -0600" stop="20210611030000 -0600" channel="58">
     <title lang="es">Costa Rica vs. Honduras</title>
   </programme>
@@ -132,7 +34,7 @@
     <title lang="es">Noticiero Tigo Sports</title>
   </programme>
   <programme start="20210611090000 -0600" stop="20210611100000 -0600" channel="58">
-    <title lang="es">El chiringuito de Jugones</title>
+    <title lang="es">Chiringuito</title>
   </programme>
   <programme start="20210611100000 -0600" stop="20210611110000 -0600" channel="58">
     <title lang="es">FItness</title>
@@ -144,20 +46,125 @@
     <title lang="es">Futbol por dentro</title>
   </programme>
   <programme start="20210611130000 -0600" stop="20210611140000 -0600" channel="58">
-    <title lang="es">El chiringuito de Jugones</title>
+    <title lang="es">Chiringuito</title>
   </programme>
   <programme start="20210611140000 -0600" stop="20210611150000 -0600" channel="58">
     <title lang="es">Noticiero Tigo Sports</title>
   </programme>
   <programme start="20210611150000 -0600" stop="20210611170000 -0600" channel="58">
-    <title lang="es">Luchas Grecoromano</title>
+    <title lang="es">Luchas grecoromanas</title>
+  </programme>
+  <programme start="20210611170000 -0600" stop="20210611180000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
   </programme>
   <programme start="20210611180000 -0600" stop="20210611190000 -0600" channel="58">
-    <title lang="es">Monte presenta</title>
+    <title lang="es">Nación Centroamérica</title>
   </programme>
   <programme start="20210611190000 -0600" stop="20210611210000 -0600" channel="58">
     <title lang="es">México vs. Costa Rica</title>
     <desc lang="es">La selección de México recibe a la de Costa Rica en el estadio Azteca desde la ciudad de México.(n)</desc>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/mexico_vs_costa_rica.png" />
+  </programme>
+  <programme start="20210611210000 -0600" stop="20210611220000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
+  </programme>
+  <programme start="20210611220000 -0600" stop="20210611230000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210611230000 -0600" stop="20210612000000 -0600" channel="58">
+    <title lang="es">Futbol por dentro</title>
+  </programme>
+  <programme start="20210612030000 -0600" stop="20210612040000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210612040000 -0600" stop="20210612060000 -0600" channel="58">
+    <title lang="es">Estados Unidos Vs. México</title>
+    <desc lang="es">La selección de los Estados Unidos de América recibe a México en un enfrentamiento deportivo.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/estados_unidos_vs_mexico.png" />
+  </programme>
+  <programme start="20210612060000 -0600" stop="20210612070000 -0600" channel="58">
+    <title lang="es">Entrenando con Leryn</title>
+  </programme>
+  <programme start="20210612070000 -0600" stop="20210612080000 -0600" channel="58">
+    <title lang="es">FItness</title>
+  </programme>
+  <programme start="20210612080000 -0600" stop="20210612100000 -0600" channel="58">
+    <title lang="es">Formula E</title>
+  </programme>
+  <programme start="20210612100000 -0600" stop="20210612110000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
+  </programme>
+  <programme start="20210612110000 -0600" stop="20210612130000 -0600" channel="58">
+    <title lang="es">México vs. Costa Rica</title>
+    <desc lang="es">La selección de México recibe a la de Costa Rica en el estadio Azteca desde la ciudad de México.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/mexico_vs_costa_rica.png" />
+  </programme>
+  <programme start="20210612130000 -0600" stop="20210612140000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
+  </programme>
+  <programme start="20210612140000 -0600" stop="20210612160000 -0600" channel="58">
+    <title lang="es">México vs. Costa Rica</title>
+    <desc lang="es">La selección de México recibe a la de Costa Rica en el estadio Azteca desde la ciudad de México.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/mexico_vs_costa_rica.png" />
+  </programme>
+  <programme start="20210612160000 -0600" stop="20210612163000 -0600" channel="58">
+    <title lang="es">Carrera a Tokio</title>
+  </programme>
+  <programme start="20210612163000 -0600" stop="20210612183000 -0600" channel="58">
+    <title lang="es">Costa Rica vs. Honduras</title>
+  </programme>
+  <programme start="20210612183000 -0600" stop="20210612190000 -0600" channel="58">
+    <title lang="es">Especial - Hanna Gabriels</title>
+  </programme>
+  <programme start="20210612190000 -0600" stop="20210612220000 -0600" channel="58">
+    <title lang="es">Estados Unidos Vs. México</title>
+    <desc lang="es">La selección de los Estados Unidos de América recibe a México en un enfrentamiento deportivo.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/estados_unidos_vs_mexico.png" />
+  </programme>
+  <programme start="20210612220000 -0600" stop="20210612230000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
+  </programme>
+  <programme start="20210613010000 -0600" stop="20210613040000 -0600" channel="58">
+    <title lang="es">Hanna Gabriels</title>
+  </programme>
+  <programme start="20210613040000 -0600" stop="20210613060000 -0600" channel="58">
+    <title lang="es">Costa Rica vs. Honduras</title>
+  </programme>
+  <programme start="20210613070000 -0600" stop="20210613080000 -0600" channel="58">
+    <title lang="es">FItness</title>
+  </programme>
+  <programme start="20210613080000 -0600" stop="20210613090000 -0600" channel="58">
+    <title lang="es">Casual con Tavo López</title>
+  </programme>
+  <programme start="20210613090000 -0600" stop="20210613110000 -0600" channel="58">
+    <title lang="es">Luchas grecoromanas</title>
+  </programme>
+  <programme start="20210613110000 -0600" stop="20210613113000 -0600" channel="58">
+    <title lang="es">TV Golf</title>
+  </programme>
+  <programme start="20210613113000 -0600" stop="20210613123000 -0600" channel="58">
+    <title lang="es">Nación Centroamérica</title>
+  </programme>
+  <programme start="20210613123000 -0600" stop="20210613143000 -0600" channel="58">
+    <title lang="es">Estados Unidos vs. Honduras</title>
+    <desc lang="es">La selección estadounidense se enfrenta a la selección hondureña en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/estados_unidos_vs_honduras.png" />
+  </programme>
+  <programme start="20210613143000 -0600" stop="20210613173000 -0600" channel="58">
+    <title lang="es">Brasil vs. Venezuela</title>
+    <desc lang="es">La selección Brasileña se enfrenta a la selección Venezolana en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/brasil_vs_venezuela.png" />
+  </programme>
+  <programme start="20210613173000 -0600" stop="20210613200000 -0600" channel="58">
+    <title lang="es">Colombia vs. Ecuador</title>
+  </programme>
+  <programme start="20210613200000 -0600" stop="20210613220000 -0600" channel="58">
+    <title lang="es">Costa Rica vs. Honduras</title>
+  </programme>
+  <programme start="20210613230000 -0600" stop="20210613233000 -0600" channel="58">
+    <title lang="es">Entrevista</title>
+  </programme>
+  <programme start="20210613233000 -0600" stop="20210614000000 -0600" channel="58">
+    <title lang="es">TV Golf</title>
   </programme>
 </tv>
