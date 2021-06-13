@@ -16,63 +16,8 @@
     <display-name lang="en">TVN Canal 14</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
-  <programme start="20210611010000 -0600" stop="20210611030000 -0600" channel="58">
+  <programme start="20210612010000 -0600" stop="20210612030000 -0600" channel="58">
     <title lang="es">Costa Rica vs. Honduras</title>
-  </programme>
-  <programme start="20210611030000 -0600" stop="20210611060000 -0600" channel="58">
-    <title lang="es">Estados Unidos Vs. México</title>
-    <desc lang="es">La selección de los Estados Unidos de América recibe a México en un enfrentamiento deportivo.(n)</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/estados_unidos_vs_mexico.png" />
-  </programme>
-  <programme start="20210611060000 -0600" stop="20210611070000 -0600" channel="58">
-    <title lang="es">Entrenando con Leryn</title>
-  </programme>
-  <programme start="20210611070000 -0600" stop="20210611080000 -0600" channel="58">
-    <title lang="es">FItness</title>
-  </programme>
-  <programme start="20210611080000 -0600" stop="20210611090000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210611090000 -0600" stop="20210611100000 -0600" channel="58">
-    <title lang="es">Chiringuito</title>
-  </programme>
-  <programme start="20210611100000 -0600" stop="20210611110000 -0600" channel="58">
-    <title lang="es">FItness</title>
-  </programme>
-  <programme start="20210611110000 -0600" stop="20210611120000 -0600" channel="58">
-    <title lang="es">Tigo Sports AM</title>
-  </programme>
-  <programme start="20210611120000 -0600" stop="20210611130000 -0600" channel="58">
-    <title lang="es">Futbol por dentro</title>
-  </programme>
-  <programme start="20210611130000 -0600" stop="20210611140000 -0600" channel="58">
-    <title lang="es">Chiringuito</title>
-  </programme>
-  <programme start="20210611140000 -0600" stop="20210611150000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210611150000 -0600" stop="20210611170000 -0600" channel="58">
-    <title lang="es">Luchas grecoromanas</title>
-  </programme>
-  <programme start="20210611170000 -0600" stop="20210611180000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210611180000 -0600" stop="20210611190000 -0600" channel="58">
-    <title lang="es">Nación Centroamérica</title>
-  </programme>
-  <programme start="20210611190000 -0600" stop="20210611210000 -0600" channel="58">
-    <title lang="es">México vs. Costa Rica</title>
-    <desc lang="es">La selección de México recibe a la de Costa Rica en el estadio Azteca desde la ciudad de México.(n)</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/mexico_vs_costa_rica.png" />
-  </programme>
-  <programme start="20210611210000 -0600" stop="20210611220000 -0600" channel="58">
-    <title lang="es">Chiringuito</title>
-  </programme>
-  <programme start="20210611220000 -0600" stop="20210611230000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210611230000 -0600" stop="20210612000000 -0600" channel="58">
-    <title lang="es">Futbol por dentro</title>
   </programme>
   <programme start="20210612030000 -0600" stop="20210612040000 -0600" channel="58">
     <title lang="es">Noticiero Tigo Sports</title>
@@ -124,11 +69,17 @@
   <programme start="20210612220000 -0600" stop="20210612230000 -0600" channel="58">
     <title lang="es">Chiringuito</title>
   </programme>
+  <programme start="20210612230000 -0600" stop="20210613000000 -0600" channel="58">
+    <title lang="es">Futbol por dentro</title>
+  </programme>
   <programme start="20210613010000 -0600" stop="20210613040000 -0600" channel="58">
     <title lang="es">Hanna Gabriels</title>
   </programme>
   <programme start="20210613040000 -0600" stop="20210613060000 -0600" channel="58">
     <title lang="es">Costa Rica vs. Honduras</title>
+  </programme>
+  <programme start="20210613060000 -0600" stop="20210613070000 -0600" channel="58">
+    <title lang="es">Entrenando con Leryn</title>
   </programme>
   <programme start="20210613070000 -0600" stop="20210613080000 -0600" channel="58">
     <title lang="es">FItness</title>
@@ -166,5 +117,11 @@
   </programme>
   <programme start="20210613233000 -0600" stop="20210614000000 -0600" channel="58">
     <title lang="es">TV Golf</title>
+  </programme>
+  <programme start="20210614000000 -0600" stop="20210614120000 -0600" channel="58">
+    <title lang="es">Tigo Sports</title>
+  </programme>
+  <programme start="20210614120000 -0600" stop="20210615000000 -0600" channel="58">
+    <title lang="es">Tigo Sports</title>
   </programme>
 </tv>
