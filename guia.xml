@@ -16,112 +16,149 @@
     <display-name lang="en">TVN Canal 14</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
-  <programme start="20210612010000 -0600" stop="20210612030000 -0600" channel="58">
-    <title lang="es">Costa Rica vs. Honduras</title>
+  <programme start="20210617010000 -0600" stop="20210617030000 -0600" channel="58">
+    <title lang="es">Paraguay vs. Bolivia</title>
+    <desc lang="es">La selección Paraguaya se enfrenta a la selección Boliviana en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/paraguay_vs_bolivia.png" />
   </programme>
-  <programme start="20210612030000 -0600" stop="20210612040000 -0600" channel="58">
+  <programme start="20210617030000 -0600" stop="20210617040000 -0600" channel="58">
     <title lang="es">Noticiero Tigo Sports</title>
   </programme>
-  <programme start="20210612040000 -0600" stop="20210612060000 -0600" channel="58">
-    <title lang="es">Estados Unidos Vs. México</title>
-    <desc lang="es">La selección de los Estados Unidos de América recibe a México en un enfrentamiento deportivo.(n)</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/estados_unidos_vs_mexico.png" />
+  <programme start="20210617040000 -0600" stop="20210617060000 -0600" channel="58">
+    <title lang="es">Argentina vs. Chile</title>
+    <desc lang="es">La selección Argentina se enfrenta a la selección Chilena en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/argentina_vs_chile.png" />
   </programme>
-  <programme start="20210612060000 -0600" stop="20210612070000 -0600" channel="58">
+  <programme start="20210617060000 -0600" stop="20210617070000 -0600" channel="58">
     <title lang="es">Entrenando con Leryn</title>
   </programme>
-  <programme start="20210612070000 -0600" stop="20210612080000 -0600" channel="58">
+  <programme start="20210617070000 -0600" stop="20210617080000 -0600" channel="58">
     <title lang="es">FItness</title>
   </programme>
-  <programme start="20210612080000 -0600" stop="20210612100000 -0600" channel="58">
-    <title lang="es">Formula E</title>
+  <programme start="20210617080000 -0600" stop="20210617090000 -0600" channel="58">
+    <title lang="es">Tigo Sports AM</title>
   </programme>
-  <programme start="20210612100000 -0600" stop="20210612110000 -0600" channel="58">
-    <title lang="es">Chiringuito</title>
+  <programme start="20210617090000 -0600" stop="20210617100000 -0600" channel="58">
+    <title lang="es">El chiringuito</title>
   </programme>
-  <programme start="20210612110000 -0600" stop="20210612130000 -0600" channel="58">
-    <title lang="es">México vs. Costa Rica</title>
-    <desc lang="es">La selección de México recibe a la de Costa Rica en el estadio Azteca desde la ciudad de México.(n)</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/mexico_vs_costa_rica.png" />
+  <programme start="20210617100000 -0600" stop="20210617110000 -0600" channel="58">
+    <title lang="es">FItness</title>
   </programme>
-  <programme start="20210612130000 -0600" stop="20210612140000 -0600" channel="58">
-    <title lang="es">Chiringuito</title>
+  <programme start="20210617110000 -0600" stop="20210617120000 -0600" channel="58">
+    <title lang="es">Tigo Sports AM</title>
   </programme>
-  <programme start="20210612140000 -0600" stop="20210612160000 -0600" channel="58">
-    <title lang="es">México vs. Costa Rica</title>
-    <desc lang="es">La selección de México recibe a la de Costa Rica en el estadio Azteca desde la ciudad de México.(n)</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/mexico_vs_costa_rica.png" />
-  </programme>
-  <programme start="20210612160000 -0600" stop="20210612163000 -0600" channel="58">
-    <title lang="es">Carrera a Tokio</title>
-  </programme>
-  <programme start="20210612163000 -0600" stop="20210612183000 -0600" channel="58">
-    <title lang="es">Costa Rica vs. Honduras</title>
-  </programme>
-  <programme start="20210612183000 -0600" stop="20210612190000 -0600" channel="58">
-    <title lang="es">Especial - Hanna Gabriels</title>
-  </programme>
-  <programme start="20210612190000 -0600" stop="20210612220000 -0600" channel="58">
-    <title lang="es">Estados Unidos Vs. México</title>
-    <desc lang="es">La selección de los Estados Unidos de América recibe a México en un enfrentamiento deportivo.(n)</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/estados_unidos_vs_mexico.png" />
-  </programme>
-  <programme start="20210612220000 -0600" stop="20210612230000 -0600" channel="58">
-    <title lang="es">Chiringuito</title>
-  </programme>
-  <programme start="20210612230000 -0600" stop="20210613000000 -0600" channel="58">
+  <programme start="20210617120000 -0600" stop="20210617130000 -0600" channel="58">
     <title lang="es">Futbol por dentro</title>
   </programme>
-  <programme start="20210613010000 -0600" stop="20210613040000 -0600" channel="58">
-    <title lang="es">Hanna Gabriels</title>
+  <programme start="20210617130000 -0600" stop="20210617140000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
   </programme>
-  <programme start="20210613040000 -0600" stop="20210613060000 -0600" channel="58">
-    <title lang="es">Costa Rica vs. Honduras</title>
+  <programme start="20210617140000 -0600" stop="20210617143000 -0600" channel="58">
+    <title lang="es">Corazon de la Peninsula</title>
   </programme>
-  <programme start="20210613060000 -0600" stop="20210613070000 -0600" channel="58">
-    <title lang="es">Entrenando con Leryn</title>
+  <programme start="20210617143000 -0600" stop="20210617170000 -0600" channel="58">
+    <title lang="es">Colombia vs. Venezuela</title>
+    <desc lang="es">La selección Colombiana se enfrenta a la selección Venezolana en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/colombia_vs_venezuela.png" />
   </programme>
-  <programme start="20210613070000 -0600" stop="20210613080000 -0600" channel="58">
+  <programme start="20210617170000 -0600" stop="20210617180000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210617180000 -0600" stop="20210617200000 -0600" channel="58">
+    <title lang="es">Brasil vs. Perú</title>
+    <desc lang="es">La selección Brasileña se enfrenta a la selección Peruana en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/brasil_vs_peru.png" />
+  </programme>
+  <programme start="20210617200000 -0600" stop="20210617210000 -0600" channel="58">
+    <title lang="es">Monte presenta</title>
+  </programme>
+  <programme start="20210617210000 -0600" stop="20210617220000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
+  </programme>
+  <programme start="20210617220000 -0600" stop="20210617230000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210617230000 -0600" stop="20210618000000 -0600" channel="58">
+    <title lang="es">Futbol por dentro</title>
+  </programme>
+  <programme start="20210618010000 -0600" stop="20210618030000 -0600" channel="58">
+    <title lang="es">Colombia vs. Venezuela</title>
+    <desc lang="es">La selección Colombiana se enfrenta a la selección Venezolana en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/colombia_vs_venezuela.png" />
+  </programme>
+  <programme start="20210618040000 -0600" stop="20210618060000 -0600" channel="58">
+    <title lang="es">Brasil vs. Perú</title>
+    <desc lang="es">La selección Brasileña se enfrenta a la selección Peruana en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/brasil_vs_peru.png" />
+  </programme>
+  <programme start="20210618070000 -0600" stop="20210618080000 -0600" channel="58">
     <title lang="es">FItness</title>
   </programme>
-  <programme start="20210613080000 -0600" stop="20210613090000 -0600" channel="58">
-    <title lang="es">Casual con Tavo López</title>
+  <programme start="20210618080000 -0600" stop="20210618090000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
   </programme>
-  <programme start="20210613090000 -0600" stop="20210613110000 -0600" channel="58">
-    <title lang="es">Luchas grecoromanas</title>
-  </programme>
-  <programme start="20210613110000 -0600" stop="20210613113000 -0600" channel="58">
-    <title lang="es">TV Golf</title>
-  </programme>
-  <programme start="20210613113000 -0600" stop="20210613123000 -0600" channel="58">
-    <title lang="es">Nación Centroamérica</title>
-  </programme>
-  <programme start="20210613123000 -0600" stop="20210613143000 -0600" channel="58">
-    <title lang="es">Estados Unidos vs. Honduras</title>
-    <desc lang="es">La selección estadounidense se enfrenta a la selección hondureña en un partido entre ambas naciones.(n)</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/estados_unidos_vs_honduras.png" />
-  </programme>
-  <programme start="20210613143000 -0600" stop="20210613173000 -0600" channel="58">
-    <title lang="es">Brasil vs. Venezuela</title>
-    <desc lang="es">La selección Brasileña se enfrenta a la selección Venezolana en un partido entre ambas naciones.(n)</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/brasil_vs_venezuela.png" />
-  </programme>
-  <programme start="20210613173000 -0600" stop="20210613200000 -0600" channel="58">
-    <title lang="es">Colombia vs. Ecuador</title>
-  </programme>
-  <programme start="20210613200000 -0600" stop="20210613220000 -0600" channel="58">
-    <title lang="es">Costa Rica vs. Honduras</title>
-  </programme>
-  <programme start="20210613230000 -0600" stop="20210613233000 -0600" channel="58">
+  <programme start="20210618140000 -0600" stop="20210618143000 -0600" channel="58">
     <title lang="es">Entrevista</title>
   </programme>
-  <programme start="20210613233000 -0600" stop="20210614000000 -0600" channel="58">
-    <title lang="es">TV Golf</title>
+  <programme start="20210618143000 -0600" stop="20210618170000 -0600" channel="58">
+    <title lang="es">Chile vs. Bolivia</title>
+    <desc lang="es">La selección Chilena se enfrenta a la selección Boliviana en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/chile_vs_bolivia.png" />
   </programme>
-  <programme start="20210614000000 -0600" stop="20210614120000 -0600" channel="58">
-    <title lang="es">Tigo Sports</title>
+  <programme start="20210618180000 -0600" stop="20210618200000 -0600" channel="58">
+    <title lang="es">Argentina vs. Uruguay</title>
+    <desc lang="es">La selección Argentina se enfrenta a la selección Uruguaya en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/argentina_vs_uruguay.png" />
   </programme>
-  <programme start="20210614120000 -0600" stop="20210615000000 -0600" channel="58">
-    <title lang="es">Tigo Sports</title>
+  <programme start="20210618200000 -0600" stop="20210618210000 -0600" channel="58">
+    <title lang="es">Casual con Tavo López</title>
+  </programme>
+  <programme start="20210619010000 -0600" stop="20210619030000 -0600" channel="58">
+    <title lang="es">Chile vs. Bolivia</title>
+    <desc lang="es">La selección Chilena se enfrenta a la selección Boliviana en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/chile_vs_bolivia.png" />
+  </programme>
+  <programme start="20210619040000 -0600" stop="20210619060000 -0600" channel="58">
+    <title lang="es">Argentina vs. Uruguay</title>
+    <desc lang="es">La selección Argentina se enfrenta a la selección Uruguaya en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/argentina_vs_uruguay.png" />
+  </programme>
+  <programme start="20210619070000 -0600" stop="20210619080000 -0600" channel="58">
+    <title lang="es">FItness</title>
+  </programme>
+  <programme start="20210619080000 -0600" stop="20210619100000 -0600" channel="58">
+    <title lang="es">Formula E</title>
+  </programme>
+  <programme start="20210619100000 -0600" stop="20210619110000 -0600" channel="58">
+    <title lang="es">El chiringuito</title>
+  </programme>
+  <programme start="20210619110000 -0600" stop="20210619130000 -0600" channel="58">
+    <title lang="es">Brasil vs. Perú</title>
+    <desc lang="es">La selección Brasileña se enfrenta a la selección Peruana en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/brasil_vs_peru.png" />
+  </programme>
+  <programme start="20210619130000 -0600" stop="20210619150000 -0600" channel="58">
+    <title lang="es">Colombia vs. Venezuela</title>
+    <desc lang="es">La selección Colombiana se enfrenta a la selección Venezolana en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/colombia_vs_venezuela.png" />
+  </programme>
+  <programme start="20210619150000 -0600" stop="20210619173000 -0600" channel="58">
+    <title lang="es">Formula E</title>
+  </programme>
+  <programme start="20210619173000 -0600" stop="20210619193000 -0600" channel="58">
+    <title lang="es">Argentina vs. Uruguay</title>
+    <desc lang="es">La selección Argentina se enfrenta a la selección Uruguaya en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/argentina_vs_uruguay.png" />
+  </programme>
+  <programme start="20210619193000 -0600" stop="20210619200000 -0600" channel="58">
+    <title lang="es">Entrevista</title>
+  </programme>
+  <programme start="20210619200000 -0600" stop="20210619220000 -0600" channel="58">
+    <title lang="es">Chile vs. Bolivia</title>
+    <desc lang="es">La selección Chilena se enfrenta a la selección Boliviana en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/chile_vs_bolivia.png" />
+  </programme>
+  <programme start="20210619220000 -0600" stop="20210619230000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
   </programme>
 </tv>
