@@ -82,9 +82,6 @@
   <programme start="20210622220000 -0600" stop="20210623000000 -0600" channel="58">
     <title lang="es">Noticiero Tigo Sports</title>
   </programme>
-  <programme start="20210623000000 -0600" stop="20210623010000 -0600" channel="58">
-    <title lang="es">El chiringuito</title>
-  </programme>
   <programme start="20210623010000 -0600" stop="20210623030000 -0600" channel="58">
     <title lang="es">Brasil vs. Venezuela</title>
     <desc lang="es">La selección Brasileña se enfrenta a la selección Venezolana en un partido entre ambas naciones.(n)</desc>
