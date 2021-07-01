@@ -16,83 +16,51 @@
     <display-name lang="en">TVN Canal 14</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
-  <programme start="20210630010000 -0600" stop="20210630030000 -0600" channel="58">
-    <title lang="es">Brasil vs. Venezuela</title>
-    <desc lang="es">La selección Brasileña se enfrenta a la selección Venezolana en un partido entre ambas naciones.(n)</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/brasil_vs_venezuela.png" />
-  </programme>
-  <programme start="20210630030000 -0600" stop="20210630040000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210630040000 -0600" stop="20210630060000 -0600" channel="58">
-    <title lang="es">Colombia vs. Ecuador</title>
-  </programme>
-  <programme start="20210630060000 -0600" stop="20210630070000 -0600" channel="58">
-    <title lang="es">Entrenando con Leryn</title>
-  </programme>
-  <programme start="20210630070000 -0600" stop="20210630080000 -0600" channel="58">
-    <title lang="es">FItness</title>
-  </programme>
-  <programme start="20210630080000 -0600" stop="20210630090000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210630090000 -0600" stop="20210630100000 -0600" channel="58">
-    <title lang="es">Chiringuito</title>
-  </programme>
-  <programme start="20210630100000 -0600" stop="20210630110000 -0600" channel="58">
-    <title lang="es">FItness</title>
-  </programme>
-  <programme start="20210630110000 -0600" stop="20210630120000 -0600" channel="58">
-    <title lang="es">Casual con Tavo López</title>
-  </programme>
-  <programme start="20210630120000 -0600" stop="20210630130000 -0600" channel="58">
-    <title lang="es">Futbol por dentro</title>
-  </programme>
-  <programme start="20210630130000 -0600" stop="20210630140000 -0600" channel="58">
-    <title lang="es">Chiringuito</title>
-  </programme>
-  <programme start="20210630140000 -0600" stop="20210630150000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210630150000 -0600" stop="20210630170000 -0600" channel="58">
-    <title lang="es">Bolivia vs. Argentina</title>
-  </programme>
-  <programme start="20210630170000 -0600" stop="20210630180000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210630180000 -0600" stop="20210630200000 -0600" channel="58">
-    <title lang="es">Formula E</title>
-  </programme>
-  <programme start="20210630200000 -0600" stop="20210630210000 -0600" channel="58">
-    <title lang="es">Casual con Tavo López</title>
-  </programme>
-  <programme start="20210630210000 -0600" stop="20210630220000 -0600" channel="58">
-    <title lang="es">Chiringuito</title>
-  </programme>
-  <programme start="20210630220000 -0600" stop="20210701000000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210701000000 -0600" stop="20210701010000 -0600" channel="58">
-    <title lang="es">El chiringuito</title>
-  </programme>
   <programme start="20210701010000 -0600" stop="20210701030000 -0600" channel="58">
     <title lang="es">Ecuador vs. Perú</title>
     <desc lang="es">La selección Ecuatoriana se enfrenta a la selección Peruana en un partido entre ambas naciones.(n)</desc>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/ecuador_vs_peru.png" />
+  </programme>
+  <programme start="20210701030000 -0600" stop="20210701040000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
   </programme>
   <programme start="20210701040000 -0600" stop="20210701060000 -0600" channel="58">
     <title lang="es">Brasil vs. Colombia</title>
     <desc lang="es">La selección de Brasil se enfrenta a la selección de Colombia en un partido entre ambas naciones.(n)</desc>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/brasil_vs_colombia.png" />
   </programme>
+  <programme start="20210701060000 -0600" stop="20210701070000 -0600" channel="58">
+    <title lang="es">Entrenando con Leryn</title>
+  </programme>
+  <programme start="20210701070000 -0600" stop="20210701080000 -0600" channel="58">
+    <title lang="es">FItness</title>
+  </programme>
   <programme start="20210701080000 -0600" stop="20210701090000 -0600" channel="58">
     <title lang="es">Tigo Sports AM</title>
+  </programme>
+  <programme start="20210701090000 -0600" stop="20210701100000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
+  </programme>
+  <programme start="20210701100000 -0600" stop="20210701110000 -0600" channel="58">
+    <title lang="es">FItness</title>
   </programme>
   <programme start="20210701110000 -0600" stop="20210701120000 -0600" channel="58">
     <title lang="es">Tigo Sports AM</title>
   </programme>
+  <programme start="20210701120000 -0600" stop="20210701130000 -0600" channel="58">
+    <title lang="es">Futbol por dentro</title>
+  </programme>
+  <programme start="20210701130000 -0600" stop="20210701140000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
+  </programme>
+  <programme start="20210701140000 -0600" stop="20210701150000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
   <programme start="20210701150000 -0600" stop="20210701170000 -0600" channel="58">
     <title lang="es">Formula E</title>
+  </programme>
+  <programme start="20210701170000 -0600" stop="20210701180000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
   </programme>
   <programme start="20210701180000 -0600" stop="20210701190000 -0600" channel="58">
     <title lang="es">Fanatikos</title>
@@ -109,11 +77,17 @@
   <programme start="20210701220000 -0600" stop="20210702000000 -0600" channel="58">
     <title lang="es">Noticiero Tigo Sports</title>
   </programme>
+  <programme start="20210702000000 -0600" stop="20210702010000 -0600" channel="58">
+    <title lang="es">El chiringuito</title>
+  </programme>
   <programme start="20210702010000 -0600" stop="20210702030000 -0600" channel="58">
     <title lang="es">Bolivia vs. Uruguay</title>
   </programme>
   <programme start="20210702040000 -0600" stop="20210702060000 -0600" channel="58">
     <title lang="es">Chile vs. Paraguay</title>
+  </programme>
+  <programme start="20210702080000 -0600" stop="20210702090000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
   </programme>
   <programme start="20210702140000 -0600" stop="20210702143000 -0600" channel="58">
     <title lang="es">Levantamiento de potencia</title>
@@ -126,5 +100,42 @@
   </programme>
   <programme start="20210702200000 -0600" stop="20210702210000 -0600" channel="58">
     <title lang="es">Nación Centroamérica</title>
+  </programme>
+  <programme start="20210702210000 -0600" stop="20210702220000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
+  </programme>
+  <programme start="20210702220000 -0600" stop="20210703000000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210703010000 -0600" stop="20210703030000 -0600" channel="58">
+    <title lang="es">Argentina vs. Paraguay</title>
+    <desc lang="es">La selección Argentina se enfrenta a la selección Paraguaya en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/argentina_vs_paraguay.png" />
+  </programme>
+  <programme start="20210703080000 -0600" stop="20210703100000 -0600" channel="58">
+    <title lang="es">Formula E</title>
+  </programme>
+  <programme start="20210703100000 -0600" stop="20210703110000 -0600" channel="58">
+    <title lang="es">El chiringuito</title>
+  </programme>
+  <programme start="20210703110000 -0600" stop="20210703130000 -0600" channel="58">
+    <title lang="es">Uruguay vs. Chile</title>
+    <desc lang="es">La selección Uruguaya se enfrenta a la selección Chilena en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/uruguay_vs_chile.png" />
+  </programme>
+  <programme start="20210703130000 -0600" stop="20210703140000 -0600" channel="58">
+    <title lang="es">Warner Rojas</title>
+  </programme>
+  <programme start="20210703170000 -0600" stop="20210703173000 -0600" channel="58">
+    <title lang="es">Corazon de la Peninsula</title>
+  </programme>
+  <programme start="20210703173000 -0600" stop="20210703200000 -0600" channel="58">
+    <title lang="es">Copa América</title>
+  </programme>
+  <programme start="20210703200000 -0600" stop="20210703220000 -0600" channel="58">
+    <title lang="es">Formula E</title>
+  </programme>
+  <programme start="20210703220000 -0600" stop="20210704000000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
   </programme>
 </tv>
