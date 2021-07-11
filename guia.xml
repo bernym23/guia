@@ -16,64 +16,6 @@
     <display-name lang="en">TVN Canal 14</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
-  <programme start="20210710010000 -0600" stop="20210710030000 -0600" channel="58">
-    <title lang="es">Argentina vs. Paraguay</title>
-    <desc lang="es">La selección Argentina se enfrenta a la selección Paraguaya en un partido entre ambas naciones.(n)</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/argentina_vs_paraguay.png" />
-  </programme>
-  <programme start="20210710030000 -0600" stop="20210710040000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210710040000 -0600" stop="20210710060000 -0600" channel="58">
-    <title lang="es">Brasil vs. Colombia</title>
-    <desc lang="es">La selección de Brasil se enfrenta a la selección de Colombia en un partido entre ambas naciones.(n)</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/brasil_vs_colombia.png" />
-  </programme>
-  <programme start="20210710060000 -0600" stop="20210710070000 -0600" channel="58">
-    <title lang="es">Entrenando con Leryn</title>
-  </programme>
-  <programme start="20210710070000 -0600" stop="20210710080000 -0600" channel="58">
-    <title lang="es">FItness</title>
-  </programme>
-  <programme start="20210710080000 -0600" stop="20210710100000 -0600" channel="58">
-    <title lang="es">Formula E</title>
-  </programme>
-  <programme start="20210710100000 -0600" stop="20210710110000 -0600" channel="58">
-    <title lang="es">El chiringuito de Jugones</title>
-  </programme>
-  <programme start="20210710110000 -0600" stop="20210710130000 -0600" channel="58">
-    <title lang="es">Pococi vs. Suva</title>
-  </programme>
-  <programme start="20210710130000 -0600" stop="20210710140000 -0600" channel="58">
-    <title lang="es">Warner Rojas</title>
-  </programme>
-  <programme start="20210710140000 -0600" stop="20210710160000 -0600" channel="58">
-    <title lang="es">Formula E</title>
-  </programme>
-  <programme start="20210710160000 -0600" stop="20210710163000 -0600" channel="58">
-    <title lang="es">Levantamiento de potencia</title>
-  </programme>
-  <programme start="20210710163000 -0600" stop="20210710170000 -0600" channel="58">
-    <title lang="es">Corazon de la Peninsula</title>
-  </programme>
-  <programme start="20210710170000 -0600" stop="20210710173000 -0600" channel="58">
-    <title lang="es">Velocidad bajo control</title>
-  </programme>
-  <programme start="20210710173000 -0600" stop="20210710200000 -0600" channel="58">
-    <title lang="es">Brasil vs. Argentina</title>
-  </programme>
-  <programme start="20210710200000 -0600" stop="20210710220000 -0600" channel="58">
-    <title lang="es">Formula E</title>
-  </programme>
-  <programme start="20210710220000 -0600" stop="20210710230000 -0600" channel="58">
-    <title lang="es">El chiringuito de Jugones</title>
-  </programme>
-  <programme start="20210710230000 -0600" stop="20210711000000 -0600" channel="58">
-    <title lang="es">Futbol por dentro</title>
-  </programme>
-  <programme start="20210711000000 -0600" stop="20210711010000 -0600" channel="58">
-    <title lang="es">El chiringuito de Jugones</title>
-  </programme>
   <programme start="20210711010000 -0600" stop="20210711040000 -0600" channel="58">
     <title lang="es">Boxeo - Hanna Grabriel</title>
   </programme>
