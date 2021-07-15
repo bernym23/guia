@@ -16,79 +16,30 @@
     <display-name lang="en">TVN Canal 14</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
-  <programme start="20210713010000 -0600" stop="20210713030000 -0600" channel="58">
-    <title lang="es">Sporting vs. Herediano</title>
-  </programme>
-  <programme start="20210713030000 -0600" stop="20210713040000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210713040000 -0600" stop="20210713060000 -0600" channel="58">
-    <title lang="es">Argentina vs. Colombia</title>
-    <desc lang="es">La selección Argentina se enfrenta a la selección Colombiana en un partido entre ambas naciones.(n)</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/argentina_vs_colombia.png" />
-  </programme>
-  <programme start="20210713060000 -0600" stop="20210713070000 -0600" channel="58">
-    <title lang="es">Entrenando con Leryn</title>
-  </programme>
-  <programme start="20210713070000 -0600" stop="20210713080000 -0600" channel="58">
-    <title lang="es">FItness</title>
-  </programme>
-  <programme start="20210713080000 -0600" stop="20210713090000 -0600" channel="58">
-    <title lang="es">Noticiero Tigo Sports</title>
-  </programme>
-  <programme start="20210713090000 -0600" stop="20210713100000 -0600" channel="58">
-    <title lang="es">Chiringuito</title>
-  </programme>
-  <programme start="20210713100000 -0600" stop="20210713110000 -0600" channel="58">
-    <title lang="es">FItness</title>
-  </programme>
-  <programme start="20210713110000 -0600" stop="20210713113000 -0600" channel="58">
-    <title lang="es">Levantamiento de potencia</title>
-  </programme>
-  <programme start="20210713113000 -0600" stop="20210713120000 -0600" channel="58">
-    <title lang="es">Fanatikos</title>
-  </programme>
-  <programme start="20210713120000 -0600" stop="20210713130000 -0600" channel="58">
-    <title lang="es">Futbol por dentro</title>
-  </programme>
-  <programme start="20210713130000 -0600" stop="20210713140000 -0600" channel="58">
-    <title lang="es">Chiringuito</title>
-  </programme>
-  <programme start="20210713140000 -0600" stop="20210713160000 -0600" channel="58">
-    <title lang="es">Perú vs. Colombia</title>
-    <desc lang="es">La selección Peruana se enfrenta a la selección Colombiana en un partido entre ambas naciones.(n)</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/peru_vs_colombia.png" />
-  </programme>
-  <programme start="20210713160000 -0600" stop="20210713183000 -0600" channel="58">
-    <title lang="es">Boca Jrs. (Arg) vs. Atl. Mineiro (Bra)</title>
-  </programme>
-  <programme start="20210713183000 -0600" stop="20210713203000 -0600" channel="58">
-    <title lang="es">Sao Paulo (Bra) vs. Racing Club (Arg)</title>
-  </programme>
-  <programme start="20210713203000 -0600" stop="20210713213000 -0600" channel="58">
-    <title lang="es">Casual con Tavo López</title>
-  </programme>
-  <programme start="20210713213000 -0600" stop="20210713220000 -0600" channel="58">
-    <title lang="es">Gerald drumon</title>
-  </programme>
-  <programme start="20210713220000 -0600" stop="20210713230000 -0600" channel="58">
-    <title lang="es">Chiringuito</title>
-  </programme>
-  <programme start="20210713230000 -0600" stop="20210714000000 -0600" channel="58">
-    <title lang="es">Futbol por dentro</title>
-  </programme>
-  <programme start="20210714000000 -0600" stop="20210714010000 -0600" channel="58">
-    <title lang="es">El chiringuito</title>
-  </programme>
   <programme start="20210714010000 -0600" stop="20210714030000 -0600" channel="58">
     <title lang="es">Brasil vs. Perú</title>
     <desc lang="es">La selección Brasileña se enfrenta a la selección Peruana en un partido entre ambas naciones.(n)</desc>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/brasil_vs_peru.png" />
   </programme>
+  <programme start="20210714030000 -0600" stop="20210714040000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
   <programme start="20210714040000 -0600" stop="20210714060000 -0600" channel="58">
     <title lang="es">Sporting vs. Herediano</title>
   </programme>
+  <programme start="20210714060000 -0600" stop="20210714070000 -0600" channel="58">
+    <title lang="es">Entrenando con Leryn</title>
+  </programme>
   <programme start="20210714070000 -0600" stop="20210714080000 -0600" channel="58">
+    <title lang="es">FItness</title>
+  </programme>
+  <programme start="20210714080000 -0600" stop="20210714090000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210714090000 -0600" stop="20210714100000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
+  </programme>
+  <programme start="20210714100000 -0600" stop="20210714110000 -0600" channel="58">
     <title lang="es">FItness</title>
   </programme>
   <programme start="20210714110000 -0600" stop="20210714120000 -0600" channel="58">
@@ -120,6 +71,9 @@
   </programme>
   <programme start="20210714230000 -0600" stop="20210715000000 -0600" channel="58">
     <title lang="es">Futbol por dentro</title>
+  </programme>
+  <programme start="20210715000000 -0600" stop="20210715010000 -0600" channel="58">
+    <title lang="es">El chiringuito</title>
   </programme>
   <programme start="20210715010000 -0600" stop="20210715030000 -0600" channel="58">
     <title lang="es">Perú vs. Colombia</title>
@@ -157,6 +111,47 @@
     <title lang="es">Chiringuito</title>
   </programme>
   <programme start="20210715220000 -0600" stop="20210715230000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210715230000 -0600" stop="20210716000000 -0600" channel="58">
+    <title lang="es">Futbol por dentro</title>
+  </programme>
+  <programme start="20210716010000 -0600" stop="20210716030000 -0600" channel="58">
+    <title lang="es">Pococi vs. Suva</title>
+  </programme>
+  <programme start="20210716070000 -0600" stop="20210716080000 -0600" channel="58">
+    <title lang="es">FItness</title>
+  </programme>
+  <programme start="20210716110000 -0600" stop="20210716113000 -0600" channel="58">
+    <title lang="es">Kenneth Tencio BMX</title>
+  </programme>
+  <programme start="20210716113000 -0600" stop="20210716120000 -0600" channel="58">
+    <title lang="es">Fanatikos</title>
+  </programme>
+  <programme start="20210716120000 -0600" stop="20210716130000 -0600" channel="58">
+    <title lang="es">Futbol por dentro</title>
+  </programme>
+  <programme start="20210716130000 -0600" stop="20210716140000 -0600" channel="58">
+    <title lang="es">Chiringuito</title>
+  </programme>
+  <programme start="20210716140000 -0600" stop="20210716150000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210716150000 -0600" stop="20210716170000 -0600" channel="58">
+    <title lang="es">Perú vs. Colombia</title>
+    <desc lang="es">La selección Peruana se enfrenta a la selección Colombiana en un partido entre ambas naciones.(n)</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/peru_vs_colombia.png" />
+  </programme>
+  <programme start="20210716170000 -0600" stop="20210716180000 -0600" channel="58">
+    <title lang="es">Noticiero Tigo Sports</title>
+  </programme>
+  <programme start="20210716180000 -0600" stop="20210716190000 -0600" channel="58">
+    <title lang="es">Nación Centroamérica</title>
+  </programme>
+  <programme start="20210716190000 -0600" stop="20210716210000 -0600" channel="58">
+    <title lang="es">Brasil vs. Argentina</title>
+  </programme>
+  <programme start="20210716220000 -0600" stop="20210716230000 -0600" channel="58">
     <title lang="es">Noticiero Tigo Sports</title>
   </programme>
 </tv>
